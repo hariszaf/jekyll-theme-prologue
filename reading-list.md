@@ -1,6 +1,6 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Publications
+subtitle: Here you can find my papers
 layout: "page"
 icon: fa-book
 order: 5
