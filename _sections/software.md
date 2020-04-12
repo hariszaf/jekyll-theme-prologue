@@ -8,9 +8,9 @@ order: 4
 <p align="center">
   <img src="https://i.paste.pics/870189fadf668a958c8aac83f38e799c.png"  width="300" align="left" >
 </p>
-
+<br/>
 ## PEMA: a flexible Pipeline for Environmental DNA Metabarcoding Analysis of the 16S/18S rRNA, ITS and COI marker genes
-*Main page on* [*GitHub*](https://github.com/hariszaf/pema). 
+*Main page on* [*GitHub*](https://github.com/hariszaf/pema).
 *PEMA is reposited in* [*Docker Hub*](https://hub.docker.com/r/hariszaf/pema) *as well as in* [*Singularity Hub*](https://singularity-hub.org/collections/2295).
 
 The metabarcoding analysis of four marker genes, **16S rRNA** (Bacteria), **ITS** (Fungi) as well as **COI** and **18S rRNA** (metazoa) is supported by PEMA.
