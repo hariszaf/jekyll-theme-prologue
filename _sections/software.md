@@ -13,7 +13,7 @@ order: 4
 *Main page on* [*GitHub*](https://github.com/hariszaf/pema).
 *PEMA is reposited in* [*Docker Hub*](https://hub.docker.com/r/hariszaf/pema) *as well as in* [*Singularity Hub*](https://singularity-hub.org/collections/2295).
 
-The metabarcoding analysis of four marker genes, **16S rRNA** (Bacteria), **ITS** (Fungi) as well as **COI** and **18S rRNA** (metazoa) is supported by PEMA.
+Metabarcoding analysis of four marker genes, **16S rRNA** (Bacteria), **ITS** (Fungi) as well as **COI** and **18S rRNA** (metazoa) is supported by PEMA.
 
 PEMA processes the reads (raw data) from each sample and **returns an OTU- or an ASV-table with the taxonomies** of the taxa found and their abundances in each sample.
 
