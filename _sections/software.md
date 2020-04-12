@@ -19,10 +19,10 @@ The metabarcoding analysis of four marker genes, **16S rRNA** (Bacteria), **ITS*
 
 PEMA processes the reads (raw data) from each sample and **returns an OTU- or an ASV-table with the taxonomies** of the taxa found and their abundances in each sample.
 
-PEMA supports both OTU clustering (thanks to VSEARCH and CROP algorithms) and ASV inference (via SWARM) for all four marker genes. For the case of the 16S rRNA marker gene,  two separate approaches for taxonomy assignment have been included: alignment- and phylogenetic-based. For the latter, a reference tree of 1000 taxa was created using SILVA_132_SSURef, EPA-ng and RaxML-ng.
+PEMA supports **both OTU clustering** (thanks to VSEARCH and CROP algorithms) **and ASV inference** (via SWARM) for all four marker genes. For the case of the 16S rRNA marker gene,  two separate approaches for taxonomy assignment have been included: **alignment- and phylogenetic-based**. For the latter, a **reference tree of 1000 taxa** was created using SILVA_132_SSURef, EPA-ng and RaxML-ng.
 
-PEMA has been implemented in [BigDataScript](https://pcingola.github.io/BigDataScript/) programming language. BDS’s ad hoc task parallelism and task synchronization, supports heavyweight computation.
+PEMA has been implemented in [**BigDataScript**](https://pcingola.github.io/BigDataScript/) programming language. BDS’s ad hoc task parallelism and task synchronization, supports heavyweight computation.
 Thus, PEMA inherits such features and it also supports roll-back checkpoints and on-demand partial pipeline execution. In addition, PEMA takes advantage of all the computational power available on a specific machine; for example, if PEMA is executed on a personal laptop with 4 cores, it is going to use all four of them.
 
-Finally, container-based technologies such as Docker and Singularity, make PEMA easy accessible for all operating systems.
+Finally, **container-based technologies** such as **Docker** and **Singularity**, make PEMA easy accessible for all operating systems.
 As you can see in the [PEMA_tutorial.pdf](https://github.com/hariszaf/pema/blob/master/help_files/GitHub%20tutorial.pdf), once you have either Docker or Singularity on your computational environment (see below which suits your case better), running PEMA is cakewalk. You may also find the [**PEMA tutorial**](https://docs.google.com/presentation/d/1lVH23DPa2NDNBhVvOTRoip8mraw8zfw8VQwbK4vkB1U/edit?usp=sharing) as a Google Slides file.
