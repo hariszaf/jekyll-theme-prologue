@@ -12,20 +12,22 @@ order: 4
 <br/><br/>
 ## PEMA:
 ## a flexible Pipeline for Environmental DNA Metabarcoding Analysis of the 16S/18S rRNA, ITS and COI marker genes
+*Main page on [*GitHub*](https://github.com/hariszaf/pema) *
 *PEMA is reposited in* [*Docker Hub*](https://hub.docker.com/r/hariszaf/pema) *as well as in* [*Singularity Hub*](https://singularity-hub.org/collections/2295)
 
-A PEMA tutorial can be found [**here**]( https://docs.google.com/presentation/d/1lVH23DPa2NDNBhVvOTRoip8mraw8zfw8VQwbK4vkB1U/edit?fbclid=IwAR14PpWfPtxB8lLBBnoxs7UbG3IJfkArrJBS5f2kRA__kvGDUb8wiJ2Cy_s#slide=id.g57f092f54d_1_21).
 
+PEMA supports the metabarcoding analysis of four marker genes, **16S rRNA** (Bacteria), **ITS** (Fungi) as well as **COI** and **18S rRNA** (metazoa).
 
-PEMA supports the metabarcoding analysis of four marker genes, **16S rRNA** (Bacteria), **ITS** (Fungi) as well as **COI** and **18S rRNA** (metazoa). As input, PEMA accepts .fastq.gz files as returned by Illumina sequencing platforms.
-
-PEMA processes the reads from each sample and **returns an OTU- or an ASV-table with the taxonomies** of the taxa found and their abundances in each sample. It also returns statistics and a FASTQC diagram about the quality of the reads for each sample. Finally, PEMA supports **downstream ecological analysis** of the profiles retrieved, facilitated by the [phyloseq](http://joey711.github.io/phyloseq/index.html) R package.
+PEMA processes the reads (raw data) from each sample and **returns an OTU- or an ASV-table with the taxonomies** of the taxa found and their abundances in each sample. 
 
 PEMA supports both OTU clustering (thanks to VSEARCH and CROP algorithms) and ASV inference (via SWARM) for all four marker genes.
 
 For the case of the 16S rRNA marker gene, PEMA includes two separate approaches for taxonomy assignment: alignment-based and phylogenetic-based. For the latter, a reference tree of 1000 taxa was created using SILVA_132_SSURef, EPA-ng and RaxML-ng.
 
-PEMA has been implemented in [BigDataScript](https://pcingola.github.io/BigDataScript/) programming language. BDS’s ad hoc task parallelism and task synchronization, supports heavyweight computation. Thus, PEMA inherits such features and it also supports roll-back checkpoints and on-demand partial pipeline execution. In addition, PEMA takes advantage of all the computational power available on a specific machine; for example, if PEMA is executed on a personal laptop with 4 cores, it is going to use all four of them.
+PEMA has been implemented in [BigDataScript](https://pcingola.github.io/BigDataScript/) programming language. BDS’s ad hoc task parallelism and task synchronization, supports heavyweight computation.
+Thus, PEMA inherits such features and it also supports roll-back checkpoints and on-demand partial pipeline execution. In addition, PEMA takes advantage of all the computational power available on a specific machine; for example, if PEMA is executed on a personal laptop with 4 cores, it is going to use all four of them.
 
 Finally, container-based technologies such as Docker and Singularity, make PEMA easy accessible for all operating systems.
 As you can see in the [PEMA_tutorial.pdf](https://github.com/hariszaf/pema/blob/master/help_files/GitHub%20tutorial.pdf), once you have either Docker or Singularity on your computational environment (see below which suits your case better), running PEMA is cakewalk. You can also find the [**PEMA tutorial**](https://docs.google.com/presentation/d/1lVH23DPa2NDNBhVvOTRoip8mraw8zfw8VQwbK4vkB1U/edit?usp=sharing) as a Google Slides file.
+
+A PEMA tutorial can be found [**here**]( https://docs.google.com/presentation/d/1lVH23DPa2NDNBhVvOTRoip8mraw8zfw8VQwbK4vkB1U/edit?fbclid=IwAR14PpWfPtxB8lLBBnoxs7UbG3IJfkArrJBS5f2kRA__kvGDUb8wiJ2Cy_s#slide=id.g57f092f54d_1_21).
