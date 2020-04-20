@@ -14,7 +14,7 @@ That is why groups whose field could not actually aid on the coronavirus treatme
 what is happening today if we had another way of funding in the research field?
 
 Question 2:
-*Does this comment of those ministers, should focus just in the attempt to "spur the economy after the coronavirus pandemic" ? *
+* Does this comment of those ministers, should focus just in the attempt to "spur the economy after the coronavirus pandemic"?  *
 
 It would be hard for anyone to say so. In fact, the way the economy works the last 200 years played a huge part for both the evolution of viruses and how prepared
 the states were and the way they address it. Thus, we should take into account the climate and ecological crisis but also the global economical crisis that is still here,
