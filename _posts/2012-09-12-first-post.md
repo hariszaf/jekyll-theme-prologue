@@ -4,7 +4,7 @@ author: Haris Z
 layout: post
 --- -->
 "We must not lose sight of the persisting climate and ecological crisis when working out how to spur the economy after the coronavirus pandemic."
-[13 ministers  say so..](https://www.climatechangenews.com/2020/04/09/european-green-deal-must-central-resilient-recovery-covid-19/)
+It is [13 ministers ](https://www.climatechangenews.com/2020/04/09/european-green-deal-must-central-resilient-recovery-covid-19/)  that say so.
 
 Question 1:
 *What is the reason for such a comment by those funding research to a great extent?*
