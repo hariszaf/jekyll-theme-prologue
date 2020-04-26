@@ -9,5 +9,5 @@ A great article explaining why it is not the pangolin we have to blame, but the 
 
 <p align="center">
   <img src="https://nka.gr/wp-content/uploads/2020/04/sebastian-liste-amazon-fires-brazil-10.jpg"  >
+  <i>Amazon rainforest wildfires (27.08.2019 Region of Vila Nova Samuel )*<\i>
 </p>
-*Amazon rainforest wildfires (27.08.2019 Region of Vila Nova Samuel )*
