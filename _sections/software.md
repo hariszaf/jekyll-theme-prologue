@@ -26,7 +26,7 @@ As you can see in the [PEMA_tutorial.pdf](https://github.com/hariszaf/pema/blob/
 
 
 <p align="bottom">
-  <img src="https://i.ibb.co/kqT6rP5/imageedit-70-4833876726.png"  width="250" align="left" >
+  <img src="https://i.ibb.co/kqT6rP5/imageedit-70-4833876726.png"  width="300" align="left" >
 </p>
 <br/>
 ## volesti: a C++ library for high-dimensional sampling and volume approximation for modelling metabolic networks.
