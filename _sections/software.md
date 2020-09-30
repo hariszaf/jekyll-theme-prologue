@@ -25,13 +25,12 @@ As you can see in the [PEMA_tutorial.pdf](https://github.com/hariszaf/pema/blob/
 
 
 
-
+## volesti:
+## a C++ library for high-dimensional sampling and volume approximation for modelling metabolic networks.
 <p align="bottom">
   <img src="https://i.ibb.co/kqT6rP5/imageedit-70-4833876726.png"  width="250" align="left" >
 </p>
 <br/>
-## volesti:
-## a C++ library for high-dimensional sampling and volume approximation for modelling metabolic networks.
 
 VolEsti is a C++ library for volume approximation and sampling of convex bodies (e.g. polytopes) with an R and limited python interface. VolEsti is part of the [GeomScale](https://geomscale.github.io/) project.
 
