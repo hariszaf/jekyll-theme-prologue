@@ -42,8 +42,8 @@ Our aim is  to address the challenges of high dimensional networks (e.g the huma
 
 
 
-<p align="bottom">
-  <img src="http://prego.hcmr.gr/images/prego.png"  width="300" align="left" >
+<p align="center">
+  <img src="http://prego.hcmr.gr/images/prego.png"  width="350" align="left" >
 </p>
 <br/>
 
