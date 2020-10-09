@@ -36,3 +36,18 @@ As you can see in the [PEMA_tutorial.pdf](https://github.com/hariszaf/pema/blob/
 VolEsti is a C++ library for volume approximation and sampling of convex bodies (e.g. polytopes) with an R and limited python interface. VolEsti is part of the [GeomScale](https://geomscale.github.io/) project. <br/>
 Along with the GeomScale group, we are building a complete toolobx  for the analysis of metabolic network.
 Our aim is  to address the challenges of high dimensional networks (e.g the human Recon 3D) as well as those rising from networks of networks, just like in the case of metabolic networks of microbial communities.
+
+
+
+
+
+
+<p align="bottom">
+  <img src="http://prego.hcmr.gr/images/prego.png"  width="300" align="left" >
+</p>
+<br/>
+
+## PREGO: Mining public knowledge to open novel doors in molecular ecology, microbiology and biodiversity
+Process, environment, organism ([PREGO](http://prego.hcmr.gr/)) is a systems-biology approach to elucidate ecosystem function at the microbial dimension. To understand how ecosystems function it is fundamental to understand what processes occur in which environments (where), and which organisms carry them out (who). Its main motivation is to provide a one-stop-shop for researchers interested in searching and visually exploring such what - where - who associations.
+
+<br/>
