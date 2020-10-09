@@ -45,9 +45,8 @@ Our aim is  to address the challenges of high dimensional networks (e.g the huma
 <p align="center">
   <img src="http://prego.hcmr.gr/images/prego.png"  width="350" align="left" >
 </p>
-<br/>
 
-## PREGO: Mining public knowledge to open novel doors in molecular ecology, microbiology and biodiversity
+## Mining public knowledge to open novel doors in molecular ecology, microbiology and biodiversity
 Process, environment, organism ([PREGO](http://prego.hcmr.gr/)) is a systems-biology approach to elucidate ecosystem function at the microbial dimension. To understand how ecosystems function it is fundamental to understand what processes occur in which environments (where), and which organisms carry them out (who). Its main motivation is to provide a one-stop-shop for researchers interested in searching and visually exploring such what - where - who associations.
 
 <br/>
