@@ -12,4 +12,4 @@ Thanks a lot to the Pydata community for giving us the chance to talk about a gr
 
 
 
-<iframe src="https://youtu.be/zg8KFZ_LbHM?t=1" width="640" height="288" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<iframe src="https://youtu.be/zg8KFZ_LbHM" width="640" height="288" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
