@@ -17,7 +17,7 @@ order: 4
 *Main page on* [*pema.hcmr.gr*](http://pema.hcmr.gr/).
 *PEMA is reposited in* [*Docker Hub*](https://hub.docker.com/r/hariszaf/pema) *as well as in* [*Singularity Hub*](https://singularity-hub.org/collections/2295).
 
-Pipeline for Environmental Metabarcoding Analysis (PEMA) is a HPC-centered, containerized assembly of key metabarcoding analysis tools. PEMA combines state-of-the art technologies and algorithms with an easy to get-set-use framework, allowing researchers to tune thoroughly each study thanks to roll-back checkpoints and on-demand partial pipeline execution features
+[Pipeline for Environmental Metabarcoding Analysis (PEMA)](https://hariszaf.github.io/pema_documentation/) is a HPC-centered, containerized assembly of key metabarcoding analysis tools. PEMA combines state-of-the art technologies and algorithms with an easy to get-set-use framework, allowing researchers to tune thoroughly each study thanks to roll-back checkpoints and on-demand partial pipeline execution features
 
 
 <!-- RPEGO -->
@@ -60,6 +60,6 @@ Our aim is  to address the challenges of high dimensional networks (e.g the huma
    </a>
 </p>
 ## Dark mAtteR iNvestigator: diving into the dark matter of your COI sequences
-<br/><br/><br/>
-The Dark mAtteR iNvestigator tool (DARN) uses a COI reference tree of life we built, to assign your sequences to the 3 domains of life.
+<br/><br/>
+The [Dark mAtteR iNvestigator tool (DARN)](https://github.com/hariszaf/darn/) uses a COI reference tree of life we built, to assign your sequences to the 3 domains of life.
 Its purpose is not to provide you with certain taxonomic assignment but to give an overview of the species present.
