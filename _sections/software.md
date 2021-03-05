@@ -37,7 +37,7 @@ Process, environment, organism ([PREGO](http://prego.hcmr.gr/)) is a systems-bio
 <!-- VOLESTI -->
 
 <p align="bottom">
-   <a href=https://github.com/GeomScale/volume_approximation>
+   <a href="https://github.com/GeomScale/volume_approximation">
      <img src="https://i.ibb.co/kqT6rP5/imageedit-70-4833876726.png"  width="300" align="left" >
    </a>
 </p>
