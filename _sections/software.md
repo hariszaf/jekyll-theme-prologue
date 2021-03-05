@@ -52,7 +52,9 @@ Our aim is  to address the challenges of high dimensional networks (e.g the huma
 <!-- DARN -->
 
 <p align="bottom">
-  <img src="https://raw.githubusercontent.com/hariszaf/darn/main/figures/darn_logo.png"  width="300" align="left" >
+   <a href="https://github.com/hariszaf/darn">
+      <img src="https://raw.githubusercontent.com/hariszaf/darn/main/figures/darn_logo.png"  width="300" align="left" >
+   </a>
 </p>
 <br/>
 ## Dark mAtteR iNvestigator: diving into the dark matter of your COI sequences
