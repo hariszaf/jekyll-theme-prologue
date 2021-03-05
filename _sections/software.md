@@ -25,7 +25,7 @@ Pipeline for Environmental Metabarcoding Analysis (PEMA) is a HPC-centered, cont
 
 <p align="center">
    <a href="http://prego.hcmr.gr/">
-     <img src="http://prego.hcmr.gr/images/prego.png"  width="350" align="left"  style="display:block">
+     <img src="http://prego.hcmr.gr/images/prego.png"  width="350" align="left"  Hspace="30">
    </a>
 </p>
 
@@ -60,6 +60,6 @@ Our aim is  to address the challenges of high dimensional networks (e.g the huma
    </a>
 </p>
 ## Dark mAtteR iNvestigator: diving into the dark matter of your COI sequences
-<br/><br/><br/><br/>
+<br/><br/><br/>
 The Dark mAtteR iNvestigator tool (DARN) uses a COI reference tree of life we built, to assign your sequences to the 3 domains of life.
 Its purpose is not to provide you with certain taxonomic assignment but to give an overview of the species present.
