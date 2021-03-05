@@ -63,7 +63,7 @@ Our aim is  to address the challenges of high dimensional networks (e.g the huma
    </a>
 </p>
 ## Dark mAtteR iNvestigator: diving into the dark matter of your COI sequences
-<br/>
+<br/><br/><br/>
 The Dark mAtteR iNvestigator tool (DARN) uses a COI reference tree of life we built, to assign your sequences to the 3 domains of life.
 
 Its purpose is not to provide you with certain taxonomic assignment but to give an overview of the species present.
