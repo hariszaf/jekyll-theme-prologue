@@ -25,7 +25,7 @@ Pipeline for Environmental Metabarcoding Analysis (PEMA) is a HPC-centered, cont
 
 <p align="center">
    <a href="http://prego.hcmr.gr/">
-     <img src="http://prego.hcmr.gr/images/prego.png"  width="350" align="left" >
+     <img src="http://prego.hcmr.gr/images/prego.png"  width="350" align="left"  style="display:block">
    </a>
 </p>
 
