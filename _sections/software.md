@@ -30,6 +30,7 @@ Pipeline for Environmental Metabarcoding Analysis (PEMA) is a HPC-centered, cont
 </p>
 
 ## Mining the microbe!
+<br/>
 Process, environment, organism ([PREGO](http://prego.hcmr.gr/)) is a systems-biology approach to elucidate ecosystem function at the microbial dimension. To understand how ecosystems function it is fundamental to understand what processes occur in which environments (where), and which organisms carry them out (who). Its main motivation is to provide a one-stop-shop for researchers interested in searching and visually exploring such what - where - who associations.
 
 <!-- VOLESTI -->
@@ -50,8 +51,6 @@ Along with the GeomScale group, we are building a complete toolobx  for the anal
 Our aim is  to address the challenges of high dimensional networks (e.g the human Recon 3D) as well as those rising from networks of networks, just like in the case of metabolic networks of microbial communities.
 
 
-<br/>
-
 
 <!-- DARN -->
 <p align="bottom">
@@ -63,5 +62,4 @@ Our aim is  to address the challenges of high dimensional networks (e.g the huma
 ## Dark mAtteR iNvestigator: diving into the dark matter of your COI sequences
 <br/><br/><br/><br/>
 The Dark mAtteR iNvestigator tool (DARN) uses a COI reference tree of life we built, to assign your sequences to the 3 domains of life.
-
 Its purpose is not to provide you with certain taxonomic assignment but to give an overview of the species present.
