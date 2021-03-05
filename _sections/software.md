@@ -8,7 +8,9 @@ order: 4
 <!-- PEMA -->
 
 <p align="center">
-  <img src="https://i.paste.pics/870189fadf668a958c8aac83f38e799c.png"  width="300" align="left" >
+   <a href="http://pema.hcmr.gr/">
+      <img src="https://i.paste.pics/870189fadf668a958c8aac83f38e799c.png"  width="300" align="left" >
+   </a>
 </p>
 <br/>
 ## PEMA: a flexible Pipeline for Environmental DNA Metabarcoding Analysis of the 16S/18S rRNA, ITS and COI marker genes
@@ -22,7 +24,9 @@ Pipeline for Environmental Metabarcoding Analysis (PEMA) is a HPC-centered, cont
 
 
 <p align="center">
-  <img src="http://prego.hcmr.gr/images/prego.png"  width="350" align="left" >
+   <a href="http://prego.hcmr.gr/">
+     <img src="http://prego.hcmr.gr/images/prego.png"  width="350" align="left" >
+   </a>
 </p>
 
 ## Mining public knowledge to open novel doors in molecular ecology, microbiology and biodiversity
@@ -33,7 +37,9 @@ Process, environment, organism ([PREGO](http://prego.hcmr.gr/)) is a systems-bio
 <!-- VOLESTI -->
 
 <p align="bottom">
-  <img src="https://i.ibb.co/kqT6rP5/imageedit-70-4833876726.png"  width="300" align="left" >
+   <a href=https://github.com/GeomScale/volume_approximation>
+     <img src="https://i.ibb.co/kqT6rP5/imageedit-70-4833876726.png"  width="300" align="left" >
+   </a>
 </p>
 <br/>
 
