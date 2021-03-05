@@ -32,8 +32,6 @@ Pipeline for Environmental Metabarcoding Analysis (PEMA) is a HPC-centered, cont
 ## Mining the microbe!
 Process, environment, organism ([PREGO](http://prego.hcmr.gr/)) is a systems-biology approach to elucidate ecosystem function at the microbial dimension. To understand how ecosystems function it is fundamental to understand what processes occur in which environments (where), and which organisms carry them out (who). Its main motivation is to provide a one-stop-shop for researchers interested in searching and visually exploring such what - where - who associations.
 
-<br/>
-
 <!-- VOLESTI -->
 
 <p align="bottom">
@@ -56,9 +54,9 @@ Our aim is  to address the challenges of high dimensional networks (e.g the huma
 
 
 <!-- DARN -->
-<br/>
 <p align="bottom">
    <a href="https://github.com/hariszaf/darn">
+      <br/>
       <img src="https://raw.githubusercontent.com/hariszaf/darn/main/figures/darn_logo.png"  width="300" align="left" >
    </a>
 </p>
