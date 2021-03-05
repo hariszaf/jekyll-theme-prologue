@@ -40,7 +40,7 @@ email: haris-zaf@hcmr.gr
 avatar: assets/images/lab_42_pic_haris.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/profile" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://hariszaf.github.io" # the base hostname & protocol for your site
 
 # Social settings
