@@ -10,6 +10,6 @@ Both [PEMA](http://pema.hcmr.gr/) and [DARN](https://github.com/hariszaf/darn) h
 
 You may see the complete program [here](https://symposium.inrae.fr/dnaqua-conference-evian2021/Schedule).
 
-Thanks @DNAquaNet! 
+Thanks [@DNAquaNet](https://twitter.com/DNAquaNet)! 
 
 See you all there! 
