@@ -4,7 +4,7 @@ author: Haris Z
 layout: post
 --- -->
 
-Really glad about ***dingo*** being accepted at [BOSC2021](https://www.open-bio.org/events/bosc-2021/).
+Really glad about ***[dingo](https://github.com/GeomScale/dingo)*** being accepted at [BOSC2021](https://www.open-bio.org/events/bosc-2021/).
 
 We will be there with our e-poster! 
 
