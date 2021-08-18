@@ -5,9 +5,9 @@ order: 3
 ---
 
 
+* **Haris Zafeiropoulos**, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis et al. **"0s and 1s in marine molecular research: a regional HPC perspective"**, GigaScience, Volume 10, Issue 8, August 2021, giab053, [https://doi.org/10.1093/gigascience/giab053](https://doi.org/10.1093/gigascience/giab053)
 
-
-* Paraskevi N. Polymenakou, Paraskevi Nomikou, **Haris Zafeiropoulos**, Manolis Mandalakis, Thekla I. Anastasiou, Stephanos Kilias, Nikos C. Kyrpides, Georgios Kotoulas, Antoniοs Magoulas. 2021. **"The Santorini Volcanic Complex as a Valuable Source of Enzymes for Bioenergy"** Energies 14, no. 5: 1414. [https://doi.org/10.3390/en14051414](https://www.mdpi.com/1996-1073/14/5/1414)
+* Paraskevi N. Polymenakou, Paraskevi Nomikou, **Haris Zafeiropoulos** et al. **"The Santorini Volcanic Complex as a Valuable Source of Enzymes for Bioenergy"** Energies 14, no. 5: 1414. March 2021 [https://doi.org/10.3390/en14051414](https://www.mdpi.com/1996-1073/14/5/1414)
 
 * **Haris Zafeiropoulos**, Ha Quoc Viet, Katerina Vasileiadou, Antonis Potirakis, Christos Arvanitidis, Pantelis Topalis, Christina Pavloudi, Evangelos Pafilis, **"PEMA: a flexible Pipeline for Environmental DNA Metabarcoding Analysis of the 16S/18S ribosomal RNA, ITS, and COI marker genes"**, GigaScience, Volume 9, Issue 3, March 2020, giaa022, [https://doi.org/10.1093/gigascience/giaa022](https://doi.org/10.1093/gigascience/giaa022)
 
@@ -21,7 +21,7 @@ order: 3
 
 * **Haris Zafeiropoulos**, Laura Gargan, Sanni Hintikka, Christina Pavloudi, and Jens Carlsson. **"Bacteria are everywhere, even in your COI marker gene data!"** bioRxiv (2021). [doi: https://doi.org/10.1101/2021.07.10.451903](doi: https://doi.org/10.1101/2021.07.10.451903)
 
-* **Haris Zafeiropoulos**, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis, Savvas Paragkamian, Nelina Angelova, … Evangelos Pafilis. (2021, April 5). **"The IMBBC HPC facility: history, configuration, usage statistics and related activities"** (Version 1.0.0). Zenodo. [http://doi.org/10.5281/zenodo.4646133](http://doi.org/10.5281/zenodo.4646133)
+* **Haris Zafeiropoulos**, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis et al. (2021, April 5). **"The IMBBC HPC facility: history, configuration, usage statistics and related activities"** (Version 1.0.0). Zenodo. [http://doi.org/10.5281/zenodo.4646133](http://doi.org/10.5281/zenodo.4646133)
 
 * Apostolos Chalkis, Vissarion Fisikopoulos, Elias Tsigaridas, **Haris Zafeiropoulos**. **"Geometric algorithms for sampling the flux space of metabolic networks"** 2020. ffhal-03047049f *([pre-print](https://hal.inria.fr/hal-03047049/document) accepted in the [37th International Symposium on Computational Geometry](https://cse.buffalo.edu/socg21/index.html))* )*
 
