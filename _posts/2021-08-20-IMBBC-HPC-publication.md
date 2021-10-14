@@ -9,5 +9,5 @@ over the last 10 years was just published on the *GigaScienece* journal.
 
 Have a look overe [here](https://doi.org/10.1093/gigascience/giab053).
 
-![history]("https://raw.githubusercontent.com/hariszaf/hariszaf.github.io/master/assets/images/giab053fig1.jpg")
+![history](https://raw.githubusercontent.com/hariszaf/hariszaf.github.io/master/assets/images/giab053fig1.jpg)
 
