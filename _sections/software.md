@@ -25,11 +25,11 @@ order: 4
 
 <p align="center">
    <a href="http://prego.hcmr.gr/">
-     <img src="http://prego.hcmr.gr/images/prego.png"  width="350" align="left"  Hspace="30">
+     <img src="https://prego.hcmr.gr/icons/prego.png"  width="350" align="left"  Hspace="30">
    </a>
 </p>
 
-## Mining the microbe!
+## Mining microbiomes!
 <br/>
 Process, environment, organism ([PREGO](http://prego.hcmr.gr/)) is a systems-biology approach to elucidate ecosystem function at the microbial dimension. To understand how ecosystems function it is fundamental to understand what processes occur in which environments (where), and which organisms carry them out (who). Its main motivation is to provide a one-stop-shop for researchers interested in searching and visually exploring such what - where - who associations.
 

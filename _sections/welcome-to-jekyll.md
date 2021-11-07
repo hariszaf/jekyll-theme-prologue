@@ -5,6 +5,9 @@ order: 3
 ---
 
 
+* **Haris Zafeiropoulos**, Laura Gargan, Sanni Hintikka, Christina Pavloudi, and Jens Carlsson. "The Dark mAtteR iNvestigator (DARN) tool: getting to know the known unknowns in COI amplicon data." Metabarcoding and Metagenomics 5 (2021): e69657. [https://doi.org/10.3897/mbmg.5.69657](https://doi.org/10.3897/mbmg.5.69657)
+
+
 * **Haris Zafeiropoulos**, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis et al. **"0s and 1s in marine molecular research: a regional HPC perspective"**, GigaScience, Volume 10, Issue 8, August 2021, giab053, [https://doi.org/10.1093/gigascience/giab053](https://doi.org/10.1093/gigascience/giab053)
 
 * Paraskevi N. Polymenakou, Paraskevi Nomikou, **Haris Zafeiropoulos** et al. **"The Santorini Volcanic Complex as a Valuable Source of Enzymes for Bioenergy"** Energies 14, no. 5: 1414. March 2021 [https://doi.org/10.3390/en14051414](https://www.mdpi.com/1996-1073/14/5/1414)
