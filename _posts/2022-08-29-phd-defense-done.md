@@ -1,0 +1,22 @@
+<!-- ---
+title: phd defense
+author: Haris Z
+layout: post
+--- -->
+
+After 3 years and a half I finally made it! :-)
+
+It's trivial to say about the good and the bad times but this is extremely valid. 
+
+I will try to keep contact to all those that helped me throught this task and to remember 
+what I should do and what I should not. 
+
+We have so many things to deal with, war, economical crisis, climate and the list goes on. 
+
+Science by itself cannot deal with all of that; it can play a great part thought when focusing on the actual social needs. 
+
+Let's give our best to that direction! 
+
+![](../assets/images/phd_defense_1.jpg)
+![](../assets/images/phd_defense_2.jpg)
+
