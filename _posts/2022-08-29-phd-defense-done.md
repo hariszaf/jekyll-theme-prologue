@@ -17,12 +17,11 @@ You may have a look in my Phd-slides:
 <!-- <object data="https://github.com/hariszaf/hariszaf.github.io/tree/master/assets/pdfs/phd_defense_HZ.pdf" width="1000" height="1000" type='application/pdf'></object> -->
 <!-- [phd_defense_HZ.pdf](https://github.com/hariszaf/hariszaf.github.io/blob/master/assets/pdfs/phd_defense_HZ.pdf) -->
 
-<embed src="(https://github.com/hariszaf/hariszaf.github.io/blob/master/assets/pdfs/phd_defense_HZ.pdf" width="800px" height="2100px" />
 
 
 <iframe
     src="https://nbviewer.org/github/hariszaf/hariszaf.github.io/blob/master/assets/pdfs/phd_defense_HZ.pdf"
-    frameBorder="0"
+    frameBorder="1"
     scrolling="auto"
     height="90%"
     width="90%"
@@ -36,7 +35,7 @@ Science by itself cannot deal with all of that; it can play a great part thought
 
 Let's give our best to that direction! 
 
-<img src="(https://raw.githubusercontent.com/hariszaf/hariszaf.github.io/master/assets/images/297325802_1947388412122562_1363647325266941629_n.jpg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/hariszaf/hariszaf.github.io/master/assets/images/297325802_1947388412122562_1363647325266941629_n.jpg" width="100" height="100">
 
 
 
