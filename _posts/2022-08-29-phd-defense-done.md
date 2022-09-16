@@ -23,8 +23,8 @@ You may have a look in my Phd-slides:
     src="https://nbviewer.org/github/hariszaf/hariszaf.github.io/blob/master/assets/pdfs/phd_defense_HZ.pdf"
     frameBorder="1"
     scrolling="auto"
-    height="210%"
-    width="60%"
+    height="910%"
+    width="120%"
 ></iframe>
 
 
@@ -35,7 +35,7 @@ Science by itself cannot deal with all of that; it can play a great part thought
 
 Let's give our best to that direction! 
 
-<img src="https://raw.githubusercontent.com/hariszaf/hariszaf.github.io/master/assets/images/297325802_1947388412122562_1363647325266941629_n.jpg" width="400em" height="400em">
+<img src="https://raw.githubusercontent.com/hariszaf/hariszaf.github.io/master/assets/images/297325802_1947388412122562_1363647325266941629_n.jpg" width="600em" height="900em">
 
 
 
