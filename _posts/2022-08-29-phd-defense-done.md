@@ -13,7 +13,7 @@ what I should do and what I should not.
 
 You may have a look in my Phd-slides: 
 
-<embed src="https://github.com/hariszaf/presentations/raw/main/last_phd_year/phd_defense_HZ.pdf" width="800px" height="2100px" />
+<embed src="https://github.com/hariszaf/presentations/blob/main/last_phd_year/phd_defense_HZ.pdf" width="800px" height="2100px" />
 
 
 We have so many things to deal with, war, economical crisis, climate and the list goes on. 
