@@ -13,7 +13,7 @@ what I should do and what I should not.
 
 You may have a look in my Phd-slides: 
 
-<embed src="https://github.com/hariszaf/presentations/blob/main/last_phd_year/phd_defense_HZ.pdf" width="800px" height="2100px" />
+<embed src="https://github.com/hariszaf/presentations/blob/main/last_phd_year/phd_defense_HZ.pdf" width="800px" height="1100px" type="application/pdf"  />
 
 
 We have so many things to deal with, war, economical crisis, climate and the list goes on. 
@@ -21,12 +21,3 @@ We have so many things to deal with, war, economical crisis, climate and the lis
 Science by itself cannot deal with all of that; it can play a great part thought when focusing on the actual social needs. 
 
 Let's give our best to that direction! 
-<!-- 
-
-<p align="center">
-<img src="" width="80%" height="85%">
-</p>
-
-<p align="center">
-<img src="" width="80%" height="85%">
-</p> -->
