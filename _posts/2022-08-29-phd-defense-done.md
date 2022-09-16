@@ -23,8 +23,8 @@ You may have a look in my Phd-slides:
     src="https://nbviewer.org/github/hariszaf/hariszaf.github.io/blob/master/assets/pdfs/phd_defense_HZ.pdf"
     frameBorder="1"
     scrolling="auto"
-    height="910%"
-    width="120%"
+    height="910em"
+    width="1200em"
 ></iframe>
 
 
