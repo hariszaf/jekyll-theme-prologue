@@ -13,8 +13,8 @@ what I should do and what I should not.
 
 You may have a look in my Phd-slides: 
 
-<embed src="https://github.com/hariszaf/hariszaf.github.io/blob/master/assets/pdfs/phd_defense_HZ.pdf" width="800px" height="1100px" type="application/pdf"  />
-
+<!-- <embed src="https://github.com/hariszaf/hariszaf.github.io/blob/master/assets/pdfs/phd_defense_HZ.pdf" width="800px" height="1100px" type="application/pdf"  /> -->
+<object data="../assets/pdfs/phd_defense_HZ.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 We have so many things to deal with, war, economical crisis, climate and the list goes on. 
 
@@ -23,5 +23,5 @@ Science by itself cannot deal with all of that; it can play a great part thought
 Let's give our best to that direction! 
 
 
-![history](https://raw.githubusercontent.com/hariszaf/hariszaf.github.io/master/assets/images/297325802_1947388412122562_1363647325266941629_n.jpg)
+![history](https://raw.githubusercontent.com/hariszaf/hariszaf.github.io/master/assets/images/297325802_1947388412122562_1363647325266941629_n.jpg | width=100)
 
