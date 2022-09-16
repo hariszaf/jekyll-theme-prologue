@@ -21,3 +21,7 @@ We have so many things to deal with, war, economical crisis, climate and the lis
 Science by itself cannot deal with all of that; it can play a great part thought when focusing on the actual social needs. 
 
 Let's give our best to that direction! 
+
+
+![history](https://raw.githubusercontent.com/hariszaf/hariszaf.github.io/master/assets/images/297325802_1947388412122562_1363647325266941629_n.jpg)
+
