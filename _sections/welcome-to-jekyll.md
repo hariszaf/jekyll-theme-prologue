@@ -24,12 +24,9 @@ order: 3
 
 ## pre-prints
 
-* **Haris Zafeiropoulos**, Laura Gargan, Sanni Hintikka, Christina Pavloudi, and Jens Carlsson. **"Bacteria are everywhere, even in your COI marker gene data!"** bioRxiv (2021). [doi: https://doi.org/10.1101/2021.07.10.451903](doi: https://doi.org/10.1101/2021.07.10.451903)
-
 * **Haris Zafeiropoulos**, Anastasia Gioti, Stelios Ninidakis, Antonis Potirakis et al. (2021, April 5). **"The IMBBC HPC facility: history, configuration, usage statistics and related activities"** (Version 1.0.0). Zenodo. [http://doi.org/10.5281/zenodo.4646133](http://doi.org/10.5281/zenodo.4646133)
 
-* Apostolos Chalkis, Vissarion Fisikopoulos, Elias Tsigaridas, **Haris Zafeiropoulos**. **"Geometric algorithms for sampling the flux space of metabolic networks"** 2020. ffhal-03047049f *([pre-print](https://hal.inria.fr/hal-03047049/document) accepted in the [37th International Symposium on Computational Geometry](https://cse.buffalo.edu/socg21/index.html))* )*
+<!-- ## in preparation
 
-## in preparation
+* **Haris Zafeiropoulos**, Jon Bent Kristoffersen, Katerina Vasileiadou, Christos Arvanitidis, Pantelis Topalis, Evangelos Pafilis, Christina Pavloudi **"In silico design of blocking primers: prevention of PCR amplification of marine fungal 16S rRNA and COI genes in metabarcoding analyses"** (under revision - resubmission) -->
 
-* **Haris Zafeiropoulos**, Jon Bent Kristoffersen, Katerina Vasileiadou, Christos Arvanitidis, Pantelis Topalis, Evangelos Pafilis, Christina Pavloudi **"In silico design of blocking primers: prevention of PCR amplification of marine fungal 16S rRNA and COI genes in metabarcoding analyses"** (under revision - resubmission)

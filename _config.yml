@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is my personal GitHub pages website based on a a Jekyll theme version of
   HTML5 UP's sleek, responsive site template Prologue.
 author: Haris Zafeiropoulos
-email: haris-zaf@hcmr.gr
+email: haris.zafeiropoulos@kuleuven.be
 avatar: assets/images/lab_42_pic_haris.jpg
 
 # You'll want to customize url and baseurl for your own site:
@@ -46,9 +46,6 @@ url: "https://hariszaf.github.io" # the base hostname & protocol for your site
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
 twitter_url: https://twitter.com/haris_zaf
-facebook_url: https://www.facebook.com/haris.zafeiropoulos.9
-googleplus_url:
-instagram_url:
 linkedin_url: https://www.linkedin.com/in/haris-zaf-44555711a/
 github_url: https://github.com/hariszaf/
 stackoverflow_url:
