@@ -5,6 +5,8 @@ order: 3
 ---
 
 
+* Pavloudi, Christina, and **Haris Zafeiropoulos**. "Deciphering the community structure and the functional potential of a hypersaline marsh microbial mat community." FEMS Microbiology Ecology (2022), [DOI](https://doi.org/10.1093/femsec/fiac141).
+
 * **Haris Zafeiropoulos**, Savvas Paragkamian, Stelios Ninidakis, Georgios A. Pavlopoulos, Lars Juhl Jensen, and Evangelos Pafilis. "PREGO: A Literature and Data-Mining Resource to Associate Microorganisms, Biological Processes, and Environment Types." *Microorganisms* 10, no. 2 (2022): 293, DOI: [10.3390/microorganisms10020293](https://doi.org/10.3390/microorganisms10020293)
 
 * **Haris Zafeiropoulos**, Laura Gargan, Sanni Hintikka, Christina Pavloudi, and Jens Carlsson. "The Dark mAtteR iNvestigator (DARN) tool: getting to know the known unknowns in COI amplicon data." *Metabarcoding and Metagenomics* 5 (2021): e69657, DOI: [10.3897/mbmg.5.69657](https://doi.org/10.3897/mbmg.5.69657)
