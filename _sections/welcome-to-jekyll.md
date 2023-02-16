@@ -5,6 +5,9 @@ order: 3
 ---
 
 
+* Daniel Rios Garza, Didier Gonze, **Haris Zafeiropoulos**, Bin Liu and Karoline Faust. "Metabolic models of human gut microbiota: Advances and challenges." Cell Systems (2023). [DOI](https://doi.org/10.1016/j.cels.2022.11.002)
+
+
 * Pavloudi, Christina, and **Haris Zafeiropoulos**. "Deciphering the community structure and the functional potential of a hypersaline marsh microbial mat community." FEMS Microbiology Ecology (2022), [DOI](https://doi.org/10.1093/femsec/fiac141).
 
 * **Haris Zafeiropoulos**, Savvas Paragkamian, Stelios Ninidakis, Georgios A. Pavlopoulos, Lars Juhl Jensen, and Evangelos Pafilis. "PREGO: A Literature and Data-Mining Resource to Associate Microorganisms, Biological Processes, and Environment Types." *Microorganisms* 10, no. 2 (2022): 293, DOI: [10.3390/microorganisms10020293](https://doi.org/10.3390/microorganisms10020293)
