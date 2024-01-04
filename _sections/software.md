@@ -10,13 +10,13 @@ order: 4
 
 <p align="center">
    <a href="https://metagoflow.readthedocs.io">
-      <img src="https://raw.githubusercontent.com/hariszaf/metaGOflow-use-case/gh-pages/assets/img/metaGOflow_logo_italics.png"  width="300" align="left" >
+      <img src="https://raw.githubusercontent.com/hariszaf/metaGOflow-use-case/gh-pages/assets/img/metaGOflow_logo_italics.png"  width="350" align="left" >
    </a>
 </p>
 <br/>
 ## metaGOflow: one shotgun at a time
-*Main page on* [*metagoflow.readthedocs.io*](https://metagoflow.readthedocs.io).
-*metaGOflow is reposited on [GitHub](https://github.com/emo-bon/MetaGOflow) as well as on [WorkflowHub](https://workflowhub.eu/workflows/384).
+Main page on [*metagoflow.readthedocs.io*](https://metagoflow.readthedocs.io).
+metaGOflow is reposited on [GitHub](https://github.com/emo-bon/MetaGOflow) as well as on [WorkflowHub](https://workflowhub.eu/workflows/384).
 
 [metaGOflow](https://hariszaf.github.io/pema_documentation/) is a HPC-oriented, containerized based workflow for the analysis of shotgun metagenomes.
 It serves as a flexible and easy-to-use workflow that can be broadly used for one-sample-at-a-time analysis of shotgun metagenomics data.
