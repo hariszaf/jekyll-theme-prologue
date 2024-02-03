@@ -57,11 +57,10 @@ But it is quite similar for the way to lead you to places you have never thought
 
 
 
+{:.text-align-center}
+![Ark 1](/assets/img/4070594.jpg){:width="45%"}
 
-
-<a href="#" class="image featured"><img src="assets/img/4070594.jpg" alt=""  max-width="1480" max-height="150"  /></a>
-<p><b><i> Alfeios river  estuary</b></i>.
-
+*Alfeios river estuary*
 
 
 
@@ -75,7 +74,6 @@ Check my [resume] if you wish to know more about me.
 
 
 
-## Work Hard to be Lazy
 
 _My motto to live by._
 {:.lead}
@@ -87,14 +85,4 @@ _My motto to live by._
 
 
 
-<!--author-->
-
-
-
-<!-- Links -->
-[SAP Labs Korea]: https://www.sap.com/korea/about/labs-korea.html
-[Hanyang University]: https://www.hanyang.ac.kr/
-[heavy gamer]: https://steamcommunity.com/id/lazyren
-[resume]: /resume/
-[original post]: http://blog.vivekmahbubani.com/2007/03/work-hard-to-be-lazy.html
-[Hydejack]: https://hydejack.com
+<!-- [resume]: /resume/ -->
