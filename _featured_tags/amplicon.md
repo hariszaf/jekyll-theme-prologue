@@ -1,9 +1,9 @@
 ---
 layout: tag-list
 type: tag
-title: Git
-slug: git
-category: devlog
+title: Amplicon
+slug: amplicon
+category: software
 sidebar: false
 description: >
    Any article related to Git.
