@@ -1,10 +1,10 @@
 ---
 layout: tag-list
 type: tag
-title: Bw-Tree
-slug: bwtree
-category: devlog
+title: FBA
+slug: fba
+category: Publications
 sidebar: true
 description: >
-   [OpenBwTree](https://github.com/LazyRen/BwTree) Analysis for Grad Thesis
+   A classic analysis on metabolic networks.
 ---

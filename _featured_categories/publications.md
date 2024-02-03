@@ -1,10 +1,10 @@
 ---
 layout: list
 type: category
-title: Review
-slug: review
+title: Publications
+slug: publications
 sidebar: true
 order: 4
 description: >
-  Reviews on hardware/software
+  My scientific publications
 ---
