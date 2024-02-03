@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url:                   https://lazyren.github.io
+# url:                   https://hariszaf.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -39,14 +39,14 @@ keywords:              ["bioinformatics", "microbial interactions", "metabolic m
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/lab_42_pic_haris.jpg
+logo:                  /assets/img/rsz_lab_42_pic_haris.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
   name:                Haris Zafeiropoulos
   email:               haris.zafeiropoulos@kuleuven.be
-  picture:             /assets/img/lab_42_pic_haris.jpg
+  picture:             /assets/img/rsz_lab_42_pic_haris.jpg
   social:
     github:            hariszaf
     email:             hariszafeiropoulos@kuleuven.be
@@ -196,13 +196,13 @@ comments:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                lazyrengithub
+# disqus:                
 
 # You must install utterances github app before use.(https://github.com/apps/utterances)
 # Make sure all variables are set properly. Check below link for detail.
 # https://utteranc.es/
 # utterances:
-#   repo:                "LazyRen/LazyRen.github.io"
+#   repo:                "hariszaf/hariszaf.github.io"
 #   issue-term:          "pathname"
 #   label:               "Comments"
 #   theme:               "photon-dark"
@@ -399,8 +399,8 @@ google_site_verification: "zIn7l_GwuOi4WnyRQsdhI9Jpn6IAs0SLR_4HG8OZzsM"
 #   yandex:              <verification-id>
 
 # Used for twitter cards
-# twitter:
-#   username:            <username>
+twitter:
+  username:            hariszaf
 
 # Used for facebook open graph
 # facebook:
