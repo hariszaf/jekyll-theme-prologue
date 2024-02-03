@@ -26,7 +26,7 @@ work:
   - company: "KU Leuven"
     position: "post-doc researcher"
     website: http://www.msysbiology.com
-    startDate: "2022-10"
+    startDate: "2022-10-01"
     endDate: ""
     summary: >
       SAP Labs Korea, a cornerstone of SAP HANA, now aims to bring the in-memory technology to the cloud where it acts as a single gateway to data of any size to harness the power of data wherever it resides and ensure the platform for intelligent enterprise.
