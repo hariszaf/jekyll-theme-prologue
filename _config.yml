@@ -39,14 +39,14 @@ keywords:              ["bioinformatics", "microbial interactions", "metabolic m
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/seattle.png
+logo:                  /assets/img/lab_42_pic_haris.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
   name:                Haris Zafeiropoulos
   email:               haris.zafeiropoulos@kuleuven.be
-  picture:             /assets/img/seattle.png
+  picture:             /assets/img/lab_42_pic_haris.jpg
   social:
     github:            hariszaf
     email:             hariszafeiropoulos@kuleuven.be
@@ -87,9 +87,9 @@ excerpt_separator:     <!--more-->
 # Customization
 # ----------------------------------------------------------------------------------------
 
-# Sidebar image and theme color of the site.
+# Sidebar image and theme color of the site.  -- used to be a gif file..
 accent_image:
-  background:          center / cover url(/assets/img/music-cat-no-loop.gif)
+  background:          center / cover url(/assets/img/marine.png)
   overlay:             false
 accent_color:          rgb(0,174,239)
 
@@ -211,7 +211,7 @@ comments:
 # Make sure all variables are set properly. Check below link for detail.
 # https://giscus.vercel.app/
 giscus:
-  repo:                "LazyRen/LazyRen.github.io"
+  repo:                "hariszaf/hariszaf.github.io"
   repo-id:             "MDEwOlJlcG9zaXRvcnkyNzU4Mjk1NTc="
   category:            "Comments"
   category-id:         "DIC_kwDOEHDTNc4B-MIg"
