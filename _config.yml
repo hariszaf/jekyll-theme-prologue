@@ -212,7 +212,7 @@ comments:
 # https://giscus.vercel.app/
 giscus:
   repo:                "hariszaf/hariszaf.github.io"
-  repo-id:             "MDEwOlJlcG9zaXRvcnkyNzU4Mjk1NTc="
+  repo-id:             "MDEwOlJlcG9zaXRvcnkyNDk1OTI1ODE="
   category:            "Comments"
   category-id:         "DIC_kwDOEHDTNc4B-MIg"
   mapping:             "pathname"

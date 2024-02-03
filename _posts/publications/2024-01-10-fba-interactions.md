@@ -10,6 +10,5 @@ image:
 
 
 
-Let's give it a shot.
-
+We evaluated the extent Flux Balance Analysis oriented analyses were able to predict mircobial interactions. 
 
