@@ -23,6 +23,7 @@ no_language_icons: false
 no_skill_icons: false
 buttons:
   print: false
-  pdf: /assets/Resume.pdf
+  pdf: https://nbviewer.org/github/hariszaf/my_cv/blob/main/multi-page-CV/zaferopoulos_cv_multipage.pdf
   json: /assets/resume.json
 ---
+f

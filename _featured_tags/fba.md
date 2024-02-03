@@ -3,7 +3,7 @@ layout: tag-list
 type: tag
 title: FBA
 slug: fba
-category: publications
+category: Publications
 sidebar: true
 description: >
    A classic analysis on metabolic networks.
