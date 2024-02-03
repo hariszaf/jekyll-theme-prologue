@@ -1,8 +1,8 @@
 ---
 layout: list
 type: category
-title: Study Log
-slug: studylog
+title: Teaching
+slug: teaching
 sidebar: true
 order: 3
 description: >
