@@ -36,13 +36,6 @@ regarding <b>how</b> ecosystems work and <b>what</b> is what we could do to rest
 In 2020, I also started to contribute to the [GeomScale](https://geomscale.github.io/) research and development project bringing together 
 computational geometry with metabolic modelling. 
 
-<!-- </a> -->
-<!-- in the development of scalable algorithms for sampling from high-dimensional distributions. -->
-<!-- and more specifically in the <a href="https://github.com/GeomScale/volume_approximation/"><i>volesti</i></a> project. -->
-<!-- Later on, the <a href="https://github.com/geomScale/dingo"><i>dingo</i></a> library was initiated based on <i>volesti</i> to enable flux sampling in metabolic networks of high dimensions.  <br/><br/> -->
-
-
-
 
 After defending my PhD in 2022, I joined 
 [lab of microbial systems biology](msysbiology.com/) 
@@ -55,14 +48,16 @@ and the
 
 
 My research interests focus on microbial interactions, ecology and evolution.
-<!-- as each and every ecosystem type is based on the microbes hosted.  -->
 Hence, bioinformatics is nothing but a means to an end? 
 One might say so. 
-But it is quite similar for the way to lead you to places you have never thought in the first place. Is it not? <br/>
+But it is quite similar for the way to lead you to places you have never thought in the first place. Is it not? 
 
-<!-- In this website you may find my so-far research work as well as some issues that have caught my attention. -->
 
-</p>
+
+
+
+
+
 
 <a href="#" class="image featured"><img src="assets/img/4070594.jpg" alt=""  max-width="1480" max-height="150"  /></a>
 <p><b><i> Alfeios river  estuary</b></i>.
@@ -78,33 +73,23 @@ But it is quite similar for the way to lead you to places you have never thought
 
 Check my [resume] if you wish to know more about me.
 
-***
 
-<!--posts_list-->
-
-***
 
 ## Work Hard to be Lazy
 
 _My motto to live by._
 {:.lead}
 
-> “Working hard to be lazy basically means investing the extra effort (working hard) at first so that it will pay off in the long run (be lazy).”
+> hello friend fsociety
+> In this website you may find my so-far research work as well as some issues that have caught my attention.
 
 
 
 
-
-[original post]
-
-***
-
-Blog created by DaeIn Lee on July 19. 2018 in Vancouver,<br>
-based on the jekyll theme [Hydejack].
-
-***
 
 <!--author-->
+
+
 
 <!-- Links -->
 [SAP Labs Korea]: https://www.sap.com/korea/about/labs-korea.html
