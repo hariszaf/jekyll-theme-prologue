@@ -25,4 +25,3 @@ buttons:
   print: false
   pdf: https://nbviewer.org/github/hariszaf/my_cv/blob/main/multi-page-CV/zaferopoulos_cv_multipage.pdf
 ---
-f
