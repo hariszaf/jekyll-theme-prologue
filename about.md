@@ -75,7 +75,7 @@ Check my [resume] if you wish to know more about me.
 
 
 
-_My motto to live by._
+
 {:.lead}
 
 > hello friend fsociety
@@ -85,4 +85,4 @@ _My motto to live by._
 
 
 
-<!-- [resume]: /resume/ -->
+[resume]: /resume/
