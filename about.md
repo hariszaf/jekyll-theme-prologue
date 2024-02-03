@@ -58,7 +58,7 @@ But it is quite similar for the way to lead you to places you have never thought
 
 
 {:.text-align-center}
-![Ark 1](/assets/img/4070594.jpg){:width="45%"}
+![Ark 1](/assets/img/4070594.jpg){:width="85%"}
 
 *Alfeios river estuary*
 
