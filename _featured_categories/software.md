@@ -1,8 +1,8 @@
 ---
 layout: list
 type: category
-title: Dev. Log
-slug: devlog
+title: Software
+slug: software
 sidebar: true
 order: 2
 description: >

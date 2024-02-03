@@ -477,6 +477,6 @@ jekyll_compose:
 # jekyll-feed settings
 feed:
   categories:
-    - devlog
+    - software
     - publications
     - studylog
