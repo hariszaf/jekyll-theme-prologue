@@ -64,7 +64,7 @@ But it is quite similar for the way to lead you to places you have never thought
 
 </p>
 
-<a href="#" class="image featured"><img src="assets/images/4070594.jpg" alt=""  max-width="1480" max-height="150"  /></a>
+<a href="#" class="image featured"><img src="assets/img/4070594.jpg" alt=""  max-width="1480" max-height="150"  /></a>
 <p><b><i> Alfeios river  estuary</b></i>.
 
 
