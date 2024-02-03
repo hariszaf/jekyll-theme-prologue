@@ -154,12 +154,14 @@ awards:
     date: "2017-09-09"
     awarder: "Kakao Code Festival 2017"
     summary: ""
-# publications:
-#   - name: "Video compression for 3d media"
-#     publisher: "Hooli"
-#     releaseDate: "2014-10-01"
-#     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-#     summary: "Innovative middle-out compression algorithm that changes the way we store data."
+
+publications:
+  - name: "Video compression for 3d media"
+    publisher: "Hooli"
+    releaseDate: "2014-10-01"
+    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+
 skills:
   - name: "Kernel Development"
     level: "Intermediate"
@@ -181,10 +183,13 @@ skills:
       - "Leadership"
       - "Affable"
 languages:
-  - language: "Korean"
+  - language: "Greek"
     fluency: "Native speaker"
   - language: "English"
     fluency: "Fluent"
+  - language: "French"
+    fluency: "So and so"
+
 interests:
   - name: "Activity"
     keywords:
