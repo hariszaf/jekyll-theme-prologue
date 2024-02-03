@@ -89,7 +89,7 @@ excerpt_separator:     <!--more-->
 
 # Sidebar image and theme color of the site.  -- used to be a gif file..
 accent_image:
-  background:          center / cover url(/assets/img/marine_tr.png)
+  background:          center / cover url(/assets/img/community.jpg)
   overlay:             false
 accent_color:          rgb(0,174,239)
 
