@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ""
-subtitle: "based on a COI reference tree covering all domains of life, DARN assigns amplicon sequences to the three domains"
+title: "metaGOflow"
+subtitle: " a workflow for the analysis of marine Genomic Observatories shotgun metagenomics data "
 category: software
-tags: amplicon software
-image: /assets/img/metago/metaGOflow_logo_italics.png
+tags: shotgun metadata
+image: /assets/img/metago/metaGOflow_logo_italics_white.png
 ---
 
 
