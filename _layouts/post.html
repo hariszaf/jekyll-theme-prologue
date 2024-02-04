@@ -22,16 +22,13 @@ layout: base
 {% assign minor = version[1] | plus:0 %}
 {% assign patch = version[2] | plus:0 %}
 
-{% include_cached components/post.html post=page no_link_title=true no_excerpt=true hide_image=page.hide_image hide_description=page.hide_description %}
-
-{% include components/dingbat.html %}
 
 {% if post.githubButton %}
   <style>
     .github-button {
       display: inline-block;
       padding: 10px 15px;
-      background-color: #24292e; /* GitHub's background color */
+      background-color: #124062; /* GitHub's background color */
       color: #ffffff;
       text-decoration: none;
       border-radius: 5px;
@@ -43,6 +40,12 @@ layout: base
   </style>
   <a href="{{ post.githubButton }}" target="_blank" class="github-button">View on GitHub</a>
 {% endif %}
+
+
+{% include_cached components/post.html post=page no_link_title=true no_excerpt=true hide_image=page.hide_image hide_description=page.hide_description %}
+
+{% include components/dingbat.html %}
+
 
 
 {% assign addons = page.addons | default:site.hydejack.post_addons %}

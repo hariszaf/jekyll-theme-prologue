@@ -5,6 +5,7 @@ subtitle: " a workflow for the analysis of marine Genomic Observatories shotgun 
 category: Software
 tags: shotgun metadata
 image: /assets/img/metago/metaGOflow_logo_italics_white.png
+githubButton: https://github.com/emo-bon/metagoflow
 ---
 
 
