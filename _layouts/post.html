@@ -84,8 +84,6 @@ layout: base
 {% endif %}
 
 
-
-
 {% if post.slides %}
   <style>
     .slides-button {
@@ -106,6 +104,24 @@ layout: base
 {% endif %}
 
 
+{% if post.paperButton %}
+  <style>
+    .paperButton-button {
+      display: inline-block;
+      padding: 10px 15px;
+      background-color: #124062; /* background color */
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-right: 10px;
+    }
+
+    .paperButton-button:hover {
+      background-color: #181c20; /* Darker color on hover */
+    }
+  </style>
+  <a href="{{ post.paperButton }}" target="_blank" class="paperButton-button">Go to the paper</a>
+{% endif %}
 
 
 {% include components/dingbat.html %}
