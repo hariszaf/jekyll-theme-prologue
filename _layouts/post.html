@@ -44,6 +44,28 @@ layout: base
 {% endif %}
 
 
+{% if post.documentation %}
+  <style>
+    .github-button {
+      display: inline-block;
+      padding: 10px 15px;
+      background-color: #124062; /* Documentation */
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+
+    .github-button:hover {
+      background-color: #181c20; /* Darker color on hover */
+    }
+  </style>
+  <a href="{{ post.githubButton }}" target="_blank" class="github-button">View on GitHub</a>
+{% endif %}
+
+
+
+
+
 
 {% include components/dingbat.html %}
 
