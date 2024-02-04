@@ -7,7 +7,8 @@ tags: FBA
 image:
   path: /assets/img/fba2024/methods.png
 related_posts:
-
+githubButton: https://github.com/Clem-Jos/pairwise_tool_comp
+paperButton: https://doi.org/10.1186/s12859-024-05651-7
 ---
 
 
