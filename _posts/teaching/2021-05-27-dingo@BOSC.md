@@ -10,7 +10,7 @@ slides: https://docs.google.com/presentation/d/1n7JTYu_ko846Vdi-YwFWItYmdsjyAgNw
 Really glad about ***[dingo](https://github.com/GeomScale/dingo)*** being accepted at [BOSC2021](https://www.open-bio.org/events/bosc-2021/).
 
 
-[![Alt text](https://www.open-bio.org/wp-content/uploads/2021/03/Colour-Horizontal-Full-Name.png)](https://github.com/GeomScale/dingo)
+[![Alt text](https://www.open-bio.org/wp-content/uploads/2021/03/Colour-Horizontal-Full-Name.png)](https://www.youtube.com/watch?v=X2eXFR73s-0)
 
 
 
