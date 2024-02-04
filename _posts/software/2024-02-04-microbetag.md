@@ -2,7 +2,7 @@
 layout: post
 title: "microbetag"
 subtitle: "a co-occurrence microbial network annotater "
-category: software
+category: Software
 tags: shotgun metadata
 image: /assets/img/microbetag/microbetag_logo.png
 ---
