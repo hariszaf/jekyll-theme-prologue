@@ -30,7 +30,7 @@ layout: base
     .github-button {
       display: inline-block;
       padding: 10px 15px;
-      background-color: #124062; /* GitHub's background color */
+      background-color: #124062;
       color: #ffffff;
       text-decoration: none;
       border-radius: 5px;
@@ -50,7 +50,7 @@ layout: base
     .documentation-button {
       display: inline-block;
       padding: 10px 15px;
-      background-color: #124062; /* Documentation */
+      background-color: #124062; 
       color: #ffffff;
       text-decoration: none;
       border-radius: 5px;
@@ -64,6 +64,25 @@ layout: base
 {% endif %}
 
 
+
+{% if post.appButton %}
+  <style>
+    .app-button {
+      display: inline-block;
+      padding: 10px 15px;
+      background-color: #124062; /* background color */
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-right: 10px;
+    }
+
+    .app-button:hover {
+      background-color: #181c20; /* Darker color on hover */
+    }
+  </style>
+  <a href="{{ post.appButton }}" target="_blank" class="app-button">Go to app</a>
+{% endif %}
 
 
 
