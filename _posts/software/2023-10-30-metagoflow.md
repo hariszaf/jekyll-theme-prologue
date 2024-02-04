@@ -2,7 +2,7 @@
 layout: post
 title: "metaGOflow"
 subtitle: " a workflow for the analysis of marine Genomic Observatories shotgun metagenomics data "
-category: Software
+category: software
 tags: shotgun metadata
 image: /assets/img/metago/metaGOflow_logo_italics_white.png
 githubButton: https://github.com/emo-bon/metagoflow
