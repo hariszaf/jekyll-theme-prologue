@@ -34,6 +34,7 @@ layout: base
       color: #ffffff;
       text-decoration: none;
       border-radius: 5px;
+      margin-right: 10px;
     }
 
     .github-button:hover {
@@ -46,7 +47,7 @@ layout: base
 
 {% if post.documentation %}
   <style>
-    .github-button {
+    .documentation-button {
       display: inline-block;
       padding: 10px 15px;
       background-color: #124062; /* Documentation */
@@ -55,11 +56,11 @@ layout: base
       border-radius: 5px;
     }
 
-    .github-button:hover {
+    .documentation-button:hover {
       background-color: #181c20; /* Darker color on hover */
     }
   </style>
-  <a href="{{ post.githubButton }}" target="_blank" class="github-button">View on GitHub</a>
+  <a href="{{ post.documentation }}" target="_blank" class="documentation-button">Documentation</a>
 {% endif %}
 
 
