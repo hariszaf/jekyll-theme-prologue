@@ -31,8 +31,8 @@ work:
     endDate: ""
     summary: >
       Since September 2022, I have joined the [Lab of Microbial Systems Biology](http://msysbiology.com) at KU Leuven and Prof. Karoline Faust group. The lab focuses on the structure and dynamics of microbial communities with systems biology methods. My contribution is in the modeling tasks of the [3D'omics](https://3domics.eu) project. 
-    highlights:
-      -
+    # highlights:
+    #   -
 
   - company: "GeomScale"
     startDate: "2020-10-01"
@@ -86,7 +86,7 @@ education:
     startDate: "2018-12-01"
     endDate: "2022-07-30"
     gpa: "Ecellent"
-    certificate: "Microbial communities through the lens of high throughput sequencing, data integration and metabolic networks analysis. <a href='https://elocus.lib.uoc.gr//dlib/5/7/d/attached-metadata-dlib-1661248925-407543-18532/haris_zafeiropoulos_phd_dissertation.pdf'>My dissertation.</a>"
+    certificate: "<br><a href='https://elocus.lib.uoc.gr//dlib/5/7/d/attached-metadata-dlib-1661248925-407543-18532/haris_zafeiropoulos_phd_dissertation.pdf'>My dissertation.</a>"
 
     # highlights: >
     #   "<a href='https://elocus.lib.uoc.gr//dlib/5/7/d/attached-metadata-dlib-1661248925-407543-18532/haris_zafeiropoulos_phd_dissertation.pdf'>my dissertation</a>"
@@ -98,7 +98,7 @@ education:
     startDate: "2016-09-01"
     endDate: "2018-09-30"
     gpa: "9.1/10"
-    certificate: "eDNA metabarcoding for biodiversity assessment: Algorithm design and bioinformatics analysis pipeline implementation. <a href='https://elocus.lib.uoc.gr//dlib/5/2/f/attached-metadata-dlib-1545038085-364284-26948/msc_thesis_zafeiropoulos.pdf'>My thesis.</a>"
+    certificate: "<br><a href='https://elocus.lib.uoc.gr//dlib/5/2/f/attached-metadata-dlib-1545038085-364284-26948/msc_thesis_zafeiropoulos.pdf'>My thesis.</a>"
 
 
   - institution: "National and Kapodistrian University of Athens, Greece"
