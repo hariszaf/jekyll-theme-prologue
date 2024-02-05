@@ -86,7 +86,7 @@ education:
     startDate: "2018-12-01"
     endDate: "2022-07-30"
     gpa: "Ecellent"
-    certificate: "<br><a href='https://elocus.lib.uoc.gr//dlib/5/7/d/attached-metadata-dlib-1661248925-407543-18532/haris_zafeiropoulos_phd_dissertation.pdf'>My dissertation.</a>"
+    certificate: "<br>    <a href='https://elocus.lib.uoc.gr//dlib/5/7/d/attached-metadata-dlib-1661248925-407543-18532/haris_zafeiropoulos_phd_dissertation.pdf'>My dissertation.</a>"
 
     # highlights: >
     #   "<a href='https://elocus.lib.uoc.gr//dlib/5/7/d/attached-metadata-dlib-1661248925-407543-18532/haris_zafeiropoulos_phd_dissertation.pdf'>my dissertation</a>"
@@ -98,7 +98,7 @@ education:
     startDate: "2016-09-01"
     endDate: "2018-09-30"
     gpa: "9.1/10"
-    certificate: "<br><a href='https://elocus.lib.uoc.gr//dlib/5/2/f/attached-metadata-dlib-1545038085-364284-26948/msc_thesis_zafeiropoulos.pdf'>My thesis.</a>"
+    certificate: "<br>    <a href='https://elocus.lib.uoc.gr//dlib/5/2/f/attached-metadata-dlib-1545038085-364284-26948/msc_thesis_zafeiropoulos.pdf'>My thesis.</a>"
 
 
   - institution: "National and Kapodistrian University of Athens, Greece"
@@ -107,7 +107,7 @@ education:
     startDate: "2010-09-01"
     endDate: "2016-09-30"
     gpa: "6.21/10"
-    certificate: "Morphology, morphometry and anatomy of species of the genus Pseudamnicola in Greece"
+    # certificate: "Morphology, morphometry and anatomy of species of the genus Pseudamnicola in Greece"
     
 
 
