@@ -84,11 +84,11 @@ education:
     startDate: "2018-12-01"
     endDate: "2022-07-30"
     gpa: "Ecellent"
-    certificate: "Microbial communities through the lens of high throughput sequencing, data integration and metabolic networks analysis. <a href='https://elocus.lib.uoc.gr//dlib/5/7/d/attached-metadata-dlib-1661248925-407543-18532/haris_zafeiropoulos_phd_dissertation.pdf'>my dissertation</a>"
+ 
+  - certificate: "Microbial communities through the lens of high throughput sequencing, data integration and metabolic networks analysis. <a href='https://elocus.lib.uoc.gr//dlib/5/7/d/attached-metadata-dlib-1661248925-407543-18532/haris_zafeiropoulos_phd_dissertation.pdf'>my dissertation</a>"
     date: "2016-07-27"
     # highlights: >
     #   "<a href='https://elocus.lib.uoc.gr//dlib/5/7/d/attached-metadata-dlib-1661248925-407543-18532/haris_zafeiropoulos_phd_dissertation.pdf'>my dissertation</a>"
-
 
 
   - institution: "University of Crete, Greece"
@@ -97,10 +97,9 @@ education:
     startDate: "2016-09-01"
     endDate: "2018-09-30"
     gpa: "91/10"
-    certificate: "eDNA metabarcoding for biodiversity assessment: Algorithm design and bioinformatics analysis pipeline implementation"
-    highlights: >
-      "<a href='https://elocus.lib.uoc.gr//dlib/5/2/f/attached-metadata-dlib-1545038085-364284-26948/msc_thesis_zafeiropoulos.pdf'>my thesis</a>"
-    # date: "2018-06-27"
+
+  - certificate: "eDNA metabarcoding for biodiversity assessment: Algorithm design and bioinformatics analysis pipeline implementation. <a href='https://elocus.lib.uoc.gr//dlib/5/2/f/attached-metadata-dlib-1545038085-364284-26948/msc_thesis_zafeiropoulos.pdf'>my thesis</a>"
+
 
   - institution: "National and Kapodistrian University of Athens, Greece"
     area: "Biology"
@@ -108,9 +107,9 @@ education:
     startDate: "2010-09-01"
     endDate: "2016-09-30"
     gpa: "6.21/10"
-    certificate: "Morphology, morphometry and anatomy of species of the genus Pseudamnicola in Greece"
-    date: "2016-07-27"
 
+  - certificate: "Morphology, morphometry and anatomy of species of the genus Pseudamnicola in Greece"
+    date: "2016-07-27"
 
 
 projects:
