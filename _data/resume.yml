@@ -41,7 +41,7 @@ work:
       GeomScale is an open source project developing algorithms for geometric statistics. This field has essential benefit for biologically oriented problems especially in metabolic models analysis. 
     highlights:
       - "SoCG 2021"
-      - "`dingo` Python library"
+      - "<a href='https://hariszaf.github.io/software/dingo.html'>dingo</a>'  Python library"
 
   - company: "IMBBC - HCMR"
     position: "MSc student and PhD candidate"
@@ -108,7 +108,8 @@ education:
     endDate: "2016-09-30"
     gpa: "6.21/10"
 
-  - certificate: "Morphology, morphometry and anatomy of species of the genus Pseudamnicola in Greece"
+  - certificate: "Thesis:"
+    title: "Morphology, morphometry and anatomy of species of the genus Pseudamnicola in Greece"
     date: "2016-07-27"
 
 
