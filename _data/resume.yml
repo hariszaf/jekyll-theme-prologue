@@ -30,82 +30,73 @@ work:
     startDate: "2022-10-01"
     endDate: ""
     summary: >
-      SAP Labs Korea, a cornerstone of SAP HANA, now aims to bring the in-memory technology to the cloud where it acts as a single gateway to data of any size to harness the power of data wherever it resides and ensure the platform for intelligent enterprise.
+      Since September 2022, I have joined the [Lab of Microbial Systems Biology](http://msysbiology.com) at KU Leuven and Prof. Karoline Faust group. The lab focuses on the structure and dynamics of microbial communities with systems biology methods. My contribution is in the modeling tasks of the [3D'omics](https://3domics.eu) project. 
+
     highlights:
 
-  - company: "Samsung Research"
-    position: "SW Engineer"
-    website: "https://research.samsung.com/"
-    startDate: "2020-02-03"
-    endDate: "2020-12-31"
+  - company: "GeomScale"
+    position: "research associate"
+    website: "https://geomscale.github.io"
     summary: >
-      Samsung Research is the advanced research and development (R&D) hub of Samsung Electronics. The hub leads the development of the future technologies with more than 10,000 researchers and developers working in overseas R&D centers.
+      GeomScale is an open source project developing algorithms for geometric statistics. This field has essential benefit for biologically oriented problems especially in metabolic models analysis. 
     highlights:
-      - "Software Capacity Building T/F"
+      - "SoCG 2021"
+      - "`dingo` Python library"
+
+  - company: "IMBBC - HCMR"
+    position: "MSc student and PhD candidate"
+    website: "https://www.imbbc.org"
+    startDate: "2017-09-01"
+    endDate: "2022-08-31"
+    summary: >
+      I joint [IMBBC, HCMR](https://imbbc.hcmr.gr) and the Biodiversity lab of Dr. Christos Arvanitidis for my MSc thesis. After that, I had my PhD with Dr. Evangelos Pafilis. 
+    highlights:
+      - "PEMA workflow"
+      - "PREGO platform"
 
 
-volunteer:
-  - organization: "Hanyang Mentoring Program"
-    position: "Mentor"
-    website: ""
-    startDate: "2018-03-02"
-    endDate: "2018-12-21"
-    summary: "Mentoring for the major courses of CSE with juniors"
-    highlights:
-      - "Data Structure; Teaching & helping sophomores on the data structure course."
-      - "Database Systems; Teaching & helping sophomores on the database system course."
-      - "Awarded 'Hanyang Best Mentor' for mentoring Database Systems course."
-  - organization: "Hanmille, Foreigner Mentoring Program"
-    position: "Mentor"
-    website: ""
-    startDate: "2014-03-02"
-    endDate: "2014-12-18"
-    summary: "Mentoring & helping foreign students to easily adjust to Korea."
-    highlights:
+
+
+# volunteer:
+#   - organization: "Hanyang Mentoring Program"
+#     position: "Mentor"
+#     website: ""
+#     startDate: "2018-03-02"
+#     endDate: "2018-12-21"
+#     summary: "Mentoring for the major courses of CSE with juniors"
+#     highlights:
+#       - "Data Structure; Teaching & helping sophomores on the data structure course."
+#       - "Database Systems; Teaching & helping sophomores on the database system course."
+#       - "Awarded 'Hanyang Best Mentor' for mentoring Database Systems course."
+#   - organization: "Hanmille, Foreigner Mentoring Program"
+#     position: "Mentor"
+#     website: ""
+#     startDate: "2014-03-02"
+#     endDate: "2014-12-18"
+#     summary: "Mentoring & helping foreign students to easily adjust to Korea."
+#     highlights:
+
 education:
-  - institution: "Hanyang University, Seoul"
-    area: "Computer Science & Engineering"
+
+  - institution: "National and Kapodistrian University of Athens, Greece"
+    area: "Biology"
     studyType: "Bachelor"
-    startDate: "2014-03-02"
-    endDate: "2020-02-21"
-    gpa: "4.0 (major 4.28) / 4.5"
-    courses:
-      - "Concurrent Programming"
-      - "Data Science"
-      - "Operating Systems"
-      - "Computer Architecture"
-      - "Database Systems"
-      - "System Programming"
-  - certificate: "Engineer Information Processing (정보처리기사)"
-    date: "2019-11-22"
+    startDate: "2010-09-01"
+    endDate: "2016-09-30"
+  - certificate: "Morphology, morphometry and anatomy of species of the genus Pseudamnicola in Greece"
+    date: "2016-07-27"
+
+
 projects:
-  - title: "Bw-Tree Performance Boosting"
-    startDate: "2018-08-01"
-    endDate: "2019-10-31"
-    summary: "Evaluating cache / multi thread Performance of <a href='https://github.com/wangziqi2013/BwTree'>Open Bw-Tree</a> to find bottleneck and improvement performance."
-    url: "https://lazyren.github.io/tag-bwtree/"
+
+  - title: "3D Omics"
+    startDate: "2022-08-01"
+    summary: "Aim of the project is to develop a framework to generate and analyse 3D'omic data that aims at unveiling microbe-microbe and animal-microbe interactions that have so far remained undetected"
+    url: "https://3domics.eu"
     highlights:
-      - "Implementing update function based on the <a href='https://hyeontaek.com/papers/openbwtree-sigmod2018.pdf'>page</a>."
-      - "Make update function atomic & reduce call of traverse function."
-      - "Design TaS implemented Bw-Tree instead of CaS to reduce the overhead of failed CaS operations."
-  - title: "Wait-free Snapshot with Epoch Based Garbage Collection"
-    startDate: "2019-10-01"
-    endDate: "2019-10-31"
-    summary: "Concurrent Programming Course"
-    url: "https://github.com/LazyRen/2019-Concurrent-Programming/tree/master/project3"
-    highlights:
-      - "Implementing Wait-free Snapshot based on the textbook 'The Art of Multiprocessor Programming'"
-      - "Concurrent update & scan function implemented"
-      - "Implement epoch based garbage collection to prevent memory leak & concurrent GC."
-  - title: "Enhanced xv6"
-    startDate: "2018-03-02"
-    endDate: "2018-06-22"
-    summary: "Operating System Course"
-    url: "https://github.com/LazyRen/2018-Operating-Systems"
-    highlights:
-      - "Implement MLFQ & Stride scheduling instead of round robin scheduling."
-      - "Implement Light Weight Process that can be used with most of POSIX-thread functions."
-      - "Implement 'triple indirect block addressing' to support large file upto 1030 MB original limitation was 70 KB."
+      - "Network and metabolic modelling"
+      - "Integrative multi-omic 3D modelling"
+
 
 
 awards:
@@ -113,29 +104,28 @@ awards:
     awarder: "Hanyang Univ."
     date: "2019-08-01"
     highlights:
-      - "2018, 2nd semester"
-      - "2017, 2nd semester(Highest Honor)"
+      - "<a href='https://hariszaf.github.io/gsoc2021/'>project blog</a>."
+
 
   - title: "European Molecular Biology Organization Short-Term Fellowship"
-    awarder: "Hanyang Univ."
+    awarder: "EMBO"
     highlights:
-      - "2019, 1st semester"
+      - microbetag project inits
+      - meet with the Lab of Microbial Systems Biology lab
+
+  - title: "Short Term Scientific Mission"
+    awarder: "DNAqua-net COST action"
+    highlights:
+      - DARN project inits
 
 
-  - title: "Win 2nd place in advanced group"
-    date: "2018-11-17"
-    awarder: "Hanyang Collegiate Programming Contest 2018"
-    summary: ""
+  - title: "Best Poster Award @ Hellenic Bioinformatics conference"
+    awarder: "HBIO"
+    highlights:
+      - "PEMA goes public for the first time."
 
-  - title: "Win 4th place in advanced group"
-    date: "2017-12-09"
-    awarder: "Hanyang Collegiate Programming Contest 2017"
-    summary: ""
 
-  - title: "Advanced to final competition"
-    date: "2017-09-09"
-    awarder: "Kakao Code Festival 2017"
-    summary: ""
+
 
 
 # publications:
@@ -146,25 +136,35 @@ awards:
 #     summary: "Innovative middle-out compression algorithm that changes the way we store data."
 
 skills:
-  - name: "Kernel Development"
+
+  - name: "Software Development"
     level: "Intermediate"
     keywords:
-      - "Concurrent Programming"
-      - "C/C++"
-      - "Rust"
+      - "Python"
+
   - name: "Algorithm"
     level: "Intermediate"
+
+  - name: "Databases"
+    level: "Junior"
+    keywords:
+      - "MySQL"
+
+  - name: "Containerization"
+    level: "Intermediate"
+    keywords:
+      - "Docker"
+      - "Singularity"
+
   - name: "Web Development"
     level: "Junior"
     keywords:
       - "HTML"
       - "CSS"
       - "Javascript"
-  - name: "Sociability"
-    level: "Master"
-    keywords:
-      - "Leadership"
-      - "Affable"
+      - "Java"
+
+
 languages:
   - language: "Greek"
     fluency: "Native speaker"
@@ -176,19 +176,15 @@ languages:
 interests:
   - name: "Activity"
     keywords:
-      - "Tennis"
-      - "Snowboarding"
-      - "Cycling"
+      - "Basketball"
+
   - name: "Reading"
     keywords:
-      - "J. R. R. Tolkien"
-      - "이영도"
-      - "전민희"
-  - name: "Gaming"
-    keywords:
-      - "Board Games"
-      - "<a href='https://steamcommunity.com/id/lazyren'>Steam</a>"
-      - "<a href='http://www.companyofheroes.com/leaderboards#profile/steam/76561198031392006/standings'>Company of Heroes 2</a>"
+      - "latin noir"
+      - "classics"
+
+
+
 # references:
 #   - name: "Erlich Bachman"
 #     reference: >
