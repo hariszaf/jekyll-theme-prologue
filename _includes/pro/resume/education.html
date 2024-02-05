@@ -8,7 +8,7 @@
   {% for edu in resume.education %}
   <section>
     <header class="{% unless forloop.first %}mt2{% endunless %}">
-      {% if edu.certificate %}
+      {% comment %} {% if edu.certificate %}
       <p class="faded">
         <time datetime="{{ edu.date | date_to_xmlschema}}">{{ edu.date | date:from_to_format }}</time>
       </p>
@@ -19,7 +19,7 @@
           | replace:"<!--certificate-->", certificate
         }}
       </h3>
-      {% else %}
+      {% else %} {% endcomment %}
       {% if edu.startDate.size > 0 %}
         <p class="faded">
           {% include components/from-to.html from=edu.startDate to=edu.endDate format=from_to_format %}
@@ -37,6 +37,7 @@
           | replace:"<!--institution-->", institution
           | replace:"<!--gpa-->", gpa
         }}
+        {% capture certificate %}<span class="bc">{{ edu.certificate }}</span>{% endcapture %}
       </h3>
       {% endif %}
     </header>

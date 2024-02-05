@@ -31,16 +31,18 @@ work:
     endDate: ""
     summary: >
       Since September 2022, I have joined the [Lab of Microbial Systems Biology](http://msysbiology.com) at KU Leuven and Prof. Karoline Faust group. The lab focuses on the structure and dynamics of microbial communities with systems biology methods. My contribution is in the modeling tasks of the [3D'omics](https://3domics.eu) project. 
-
     highlights:
+      -
 
   - company: "GeomScale"
+    startDate: "2020-10-01"
+    endDate: ""
     position: "research associate"
     website: "https://geomscale.github.io"
     summary: >
       GeomScale is an open source project developing algorithms for geometric statistics. This field has essential benefit for biologically oriented problems especially in metabolic models analysis. 
     highlights:
-      - "SoCG 2021"
+      - "<a href='https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2021.21.1'>SoCG 2021</a> "
       - "<a href='https://hariszaf.github.io/software/dingo.html'>dingo</a>'  Python library"
 
   - company: "IMBBC - HCMR"
@@ -84,9 +86,8 @@ education:
     startDate: "2018-12-01"
     endDate: "2022-07-30"
     gpa: "Ecellent"
- 
-  - certificate: "Microbial communities through the lens of high throughput sequencing, data integration and metabolic networks analysis. <a href='https://elocus.lib.uoc.gr//dlib/5/7/d/attached-metadata-dlib-1661248925-407543-18532/haris_zafeiropoulos_phd_dissertation.pdf'>my dissertation</a>"
-    date: "2016-07-27"
+    certificate: "Microbial communities through the lens of high throughput sequencing, data integration and metabolic networks analysis. <a href='https://elocus.lib.uoc.gr//dlib/5/7/d/attached-metadata-dlib-1661248925-407543-18532/haris_zafeiropoulos_phd_dissertation.pdf'>My dissertation.</a>"
+
     # highlights: >
     #   "<a href='https://elocus.lib.uoc.gr//dlib/5/7/d/attached-metadata-dlib-1661248925-407543-18532/haris_zafeiropoulos_phd_dissertation.pdf'>my dissertation</a>"
 
@@ -96,9 +97,8 @@ education:
     studyType: "Master"
     startDate: "2016-09-01"
     endDate: "2018-09-30"
-    gpa: "91/10"
-
-  - certificate: "eDNA metabarcoding for biodiversity assessment: Algorithm design and bioinformatics analysis pipeline implementation. <a href='https://elocus.lib.uoc.gr//dlib/5/2/f/attached-metadata-dlib-1545038085-364284-26948/msc_thesis_zafeiropoulos.pdf'>my thesis</a>"
+    gpa: "9.1/10"
+    certificate: "eDNA metabarcoding for biodiversity assessment: Algorithm design and bioinformatics analysis pipeline implementation. <a href='https://elocus.lib.uoc.gr//dlib/5/2/f/attached-metadata-dlib-1545038085-364284-26948/msc_thesis_zafeiropoulos.pdf'>My thesis.</a>"
 
 
   - institution: "National and Kapodistrian University of Athens, Greece"
@@ -107,10 +107,8 @@ education:
     startDate: "2010-09-01"
     endDate: "2016-09-30"
     gpa: "6.21/10"
-
-  - certificate: "Thesis:"
-    title: "Morphology, morphometry and anatomy of species of the genus Pseudamnicola in Greece"
-    date: "2016-07-27"
+    certificate: "Morphology, morphometry and anatomy of species of the genus Pseudamnicola in Greece"
+    
 
 
 projects:
