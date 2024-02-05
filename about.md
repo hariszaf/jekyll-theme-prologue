@@ -78,7 +78,6 @@ Check my [resume] if you wish to know more about me.
 
 {:.lead}
 
-> hello friend fsociety
 > In this website you may find my so-far research work as well as some issues that have caught my attention.
 
 
