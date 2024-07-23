@@ -1,8 +1,11 @@
-<!-- ---
-title: Thanks FEMS
-author: Haris Z
+---
 layout: post
---- -->
+title: "Thanks FEMS"
+subtitle: 
+category: blog
+tags: thoughts
+image: https://fems-microbiology.org/wp-content/uploads/2019/09/FEMS19-Pentagon-Green-Icon.jpg
+---
 
 Few months ago, thanks to a [FEMS Meeting Attendance Grant (MAG)](https://fems-microbiology.org/about_fems/network-and-activities/grants/) I was able to participate a Physalia course on [Metagenomics, Metatranscriptomics and Multi-omics for microbial community studies](https://www.physalia-courses.org/courses-workshops/course33/).
 

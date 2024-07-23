@@ -1,8 +1,11 @@
-<!-- ---
-title: Thanks FEMS
-author: Haris Z
+---
 layout: post
---- -->
+title: "PyData2020 video talk"
+subtitle: 
+category: blog
+tags: thoughts
+image: https://images.squarespace-cdn.com/content/v1/62ebd8e38f68d651ae7892a2/9def1f60-daba-4ff6-838f-ea9bcfc7ee6d/PyData_logo.png?format=1500w
+---
 
 The *volestipy* library was presented at the Pydata Global 2020 online conference. 
 

@@ -1,8 +1,11 @@
-<!-- ---
-title: embo fellowship
-author: Haris Z
+---
 layout: post
---- -->
+title: "EMBO fellowship at KU Leuven"
+subtitle: 
+category: blog
+tags: thoughts
+image: https://www.embo.org/wp-content/uploads/2020/08/Logo.svg
+---
 
 Really glad to start my [EMBO Scientific Exchange Grant](https://www.embo.org/funding/fellowships-grants-and-career-support/scientific-exchange-grants/) in the [Lab of Microbial Systems Biology](http://msysbiology.com/) at [KU Leuven](https://www.kuleuven.be/kuleuven/) and the [Rega Institute](https://rega.kuleuven.be/). 
 

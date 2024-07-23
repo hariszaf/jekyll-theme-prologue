@@ -1,8 +1,11 @@
-<!-- ---
-title: Microbial interactions and how to infer them!
-author: Haris Z
+---
 layout: post
---- -->
+title: "Microbial interactions and how to infer them!"
+subtitle: 
+category: blog
+tags: thoughts
+image: https://www.pnas.org/cms/10.1073/pnas.1421834112/asset/bbb85731-2dff-4358-8655-086a6c07819d/assets/graphic/pnas.1421834112fig03.jpeg
+---
 
 
 Just found out about the great paper of Aleksej Zelezniak et al.

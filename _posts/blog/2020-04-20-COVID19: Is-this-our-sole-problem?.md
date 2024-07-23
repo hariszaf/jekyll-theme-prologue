@@ -4,8 +4,8 @@ title: "COVID19: Is this our sole problem?"
 subtitle: 
 category: blog
 tags: thoughts
-image:
-  path: 
+image: https://image.spreadshirtmedia.net/image-server/v1/compositions/T6A17PA5835PT17X31Y52D161853936W24897H29877/views/1,width=550,height=550,appearanceId=17,backgroundColor=3450B5,noPt=true/anti-europe-european-union-no-eu-mens-t-shirt.jpg
+
 ---
 
 "We must not lose sight of the persisting climate and ecological crisis when working out how to spur the economy after the coronavirus pandemic."
