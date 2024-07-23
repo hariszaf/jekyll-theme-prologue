@@ -1,8 +1,13 @@
-<!-- ---
-title: COVID19: Is this our sole problem?
-author: Haris Z
+---
 layout: post
---- -->
+title: "COVID19: Is this our sole problem?"
+subtitle: 
+category: blog
+tags: thoughts
+image:
+  path: 
+---
+
 "We must not lose sight of the persisting climate and ecological crisis when working out how to spur the economy after the coronavirus pandemic."
 It is [13 ministers ](https://www.climatechangenews.com/2020/04/09/european-green-deal-must-central-resilient-recovery-covid-19/)  that say so.
 
