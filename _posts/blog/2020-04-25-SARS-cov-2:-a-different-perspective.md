@@ -4,8 +4,7 @@ title: "COVID19: A different perspective"
 subtitle: 
 category: blog
 tags: thoughts
-image:
-  url: https://nka.gr/wp-content/uploads/2020/04/coronavirus_upd-1150x600.jpg
+image: https://nka.gr/wp-content/uploads/2020/04/coronavirus_upd-1150x600.jpg
 ---
 
 A great article explaining why it is not the pangolin we have to blame, but the environmental degradation and its causes.
