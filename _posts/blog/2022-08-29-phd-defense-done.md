@@ -1,14 +1,17 @@
-<!-- ---
-title: phd defense
-author: Haris Z
+---
 layout: post
---- -->
+title: "D-Day"
+subtitle: 
+category: blog
+tags: thoughts
+image: https://thephdhub.com/wp-content/uploads/2023/01/Discover-images-13-768x553.jpg
+---
 
 After 3 years and a half I finally made it! :-)
 
-It's trivial to say about the good and the bad times but this is extremely valid.
+It's trivial to say about the good and the bad times, but this is extremely valid.
 
-I will try to keep contact to all those that helped me throught this task and to remember 
+I will try to keep contact to all those that helped me through this task and to remember 
 what I should do and what I should not. 
 
 You may have a look in my Phd-slides: 
@@ -29,7 +32,7 @@ You may have a look in my Phd-slides:
 
 
 
-We have so many things to deal with, war, economical crisis, climate and the list goes on. 
+We have so many things to deal with, war, economic crisis, climate and the list goes on. 
 
 Science by itself cannot deal with all of that; it can play a great part thought when focusing on the actual social needs. 
 
