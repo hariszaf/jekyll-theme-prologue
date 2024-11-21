@@ -1,5 +1,6 @@
 ---
-# Copyright (c) 2018 Florian Klampfer <https://qwtel.com/>
+# Copyright (c) 2018 Florian Klampfer
+<https: //qwtel.com />
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -8,11 +9,12 @@
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see
+<http: //www.gnu.org/licenses />.
 
 layout: base
 ---
@@ -22,106 +24,117 @@ layout: base
 {% assign minor = version[1] | plus:0 %}
 {% assign patch = version[2] | plus:0 %}
 
-{% include_cached components/post.html post=page no_link_title=true no_excerpt=true hide_image=page.hide_image hide_description=page.hide_description %}
+{% include_cached components/post.html post=page no_link_title=true no_excerpt=true hide_image=page.hide_image
+hide_description=page.hide_description %}
+
+<script src="{{ '/assets/js/copy-table.js' | relative_url }}"></script>
 
 
 {% if post.githubButton %}
-  <style>
-    .github-button {
-      display: inline-block;
-      padding: 10px 15px;
-      background-color: #124062;
-      color: #ffffff;
-      text-decoration: none;
-      border-radius: 5px;
-      margin-right: 10px;
-    }
+<style>
+  .github-button {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #124062;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
 
-    .github-button:hover {
-      background-color: #181c20; /* Darker color on hover */
-    }
-  </style>
-  <a href="{{ post.githubButton }}" target="_blank" class="github-button">View on GitHub</a>
+  .github-button:hover {
+    background-color: #181c20;
+    /* Darker color on hover */
+  }
+</style>
+<a href="{{ post.githubButton }}" target="_blank" class="github-button">View on GitHub</a>
 {% endif %}
 
 
 {% if post.documentation %}
-  <style>
-    .documentation-button {
-      display: inline-block;
-      padding: 10px 15px;
-      background-color: #124062; 
-      color: #ffffff;
-      text-decoration: none;
-      border-radius: 5px;
-      margin-right: 10px;
-    }
+<style>
+  .documentation-button {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #124062;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
 
-    .documentation-button:hover {
-      background-color: #181c20; /* Darker color on hover */
-    }
-  </style>
-  <a href="{{ post.documentation }}" target="_blank" class="documentation-button">Documentation</a>
+  .documentation-button:hover {
+    background-color: #181c20;
+    /* Darker color on hover */
+  }
+</style>
+<a href="{{ post.documentation }}" target="_blank" class="documentation-button">Documentation</a>
 {% endif %}
 
 
 {% if post.appButton %}
-  <style>
-    .app-button {
-      display: inline-block;
-      padding: 10px 15px;
-      background-color: #124062; /* background color */
-      color: #ffffff;
-      text-decoration: none;
-      border-radius: 5px;
-      margin-right: 10px;
-    }
+<style>
+  .app-button {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #124062;
+    /* background color */
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
 
-    .app-button:hover {
-      background-color: #181c20; /* Darker color on hover */
-    }
-  </style>
-  <a href="{{ post.appButton }}" target="_blank" class="app-button">Go to app</a>
+  .app-button:hover {
+    background-color: #181c20;
+    /* Darker color on hover */
+  }
+</style>
+<a href="{{ post.appButton }}" target="_blank" class="app-button">Go to app</a>
 {% endif %}
 
 
 {% if post.slides %}
-  <style>
-    .slides-button {
-      display: inline-block;
-      padding: 10px 15px;
-      background-color: #124062; /* background color */
-      color: #ffffff;
-      text-decoration: none;
-      border-radius: 5px;
-      margin-right: 10px;
-    }
+<style>
+  .slides-button {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #124062;
+    /* background color */
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
 
-    .slides-button:hover {
-      background-color: #181c20; /* Darker color on hover */
-    }
-  </style>
-  <a href="{{ post.slides }}" target="_blank" class="slides-button">Slides</a>
+  .slides-button:hover {
+    background-color: #181c20;
+    /* Darker color on hover */
+  }
+</style>
+<a href="{{ post.slides }}" target="_blank" class="slides-button">Slides</a>
 {% endif %}
 
 
 {% if post.paperButton %}
-  <style>
-    .paperButton-button {
-      display: inline-block;
-      padding: 10px 15px;
-      background-color: #124062; /* background color */
-      color: #ffffff;
-      text-decoration: none;
-      border-radius: 5px;
-      margin-right: 10px;
-    }
+<style>
+  .paperButton-button {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #124062;
+    /* background color */
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
 
-    .paperButton-button:hover {
-      background-color: #181c20; /* Darker color on hover */
-    }
-  </style>
-  <a href="{{ post.paperButton }}" target="_blank" class="paperButton-button">Go to the paper</a>
+  .paperButton-button:hover {
+    background-color: #181c20;
+    /* Darker color on hover */
+  }
+</style>
+<a href="{{ post.paperButton }}" target="_blank" class="paperButton-button">Go to the paper</a>
 {% endif %}
 
 
@@ -131,17 +144,17 @@ layout: base
 {% assign addons = page.addons | default:site.hydejack.post_addons %}
 {% unless addons %}{% assign addons = "about,newsletter,related,random" | split:"," %}{% endunless %}
 {% for addon in addons %}
-  {% case addon %}
-  {% when 'about' %}
-     {% include_cached components/about.html author=page.author %}
-  {% when 'newsletter' %}
-    {% include if-non-null try="pro/newsletter.html" %}
-  {% when 'related' %}
-    {% include if-non-null try="pro/related-posts.html" fallback="components/related-posts.html" %}
-  {% when 'random' %}
-    {% include if-non-null try="pro/random-posts.html" %}
-  {% when 'comments' %}
-    {% include body/comments.html %}
-  {% else %}
-  {% endcase %}
+{% case addon %}
+{% when 'about' %}
+{% include_cached components/about.html author=page.author %}
+{% when 'newsletter' %}
+{% include if-non-null try="pro/newsletter.html" %}
+{% when 'related' %}
+{% include if-non-null try="pro/related-posts.html" fallback="components/related-posts.html" %}
+{% when 'random' %}
+{% include if-non-null try="pro/random-posts.html" %}
+{% when 'comments' %}
+{% include body/comments.html %}
+{% else %}
+{% endcase %}
 {% endfor %}

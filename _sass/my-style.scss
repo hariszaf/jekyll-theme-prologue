@@ -101,7 +101,7 @@ div.highlight {
   >.pre-header {
     overflow: hidden;
 
-    > span {
+    >span {
       font-family: var(--code-font-family);
     }
   }
@@ -134,4 +134,57 @@ pre {
     border-right-style: inset;
     border-right-width: calc(100vw + 100vh);
   }
+}
+
+.quote-box {
+  background-color: #0f5696;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #b0e0e6;
+  color: #fff;
+  /* Optional for text readability */
+}
+
+.quote-box-title {
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-size: 1.1em;
+  /* Optional */
+}
+
+blockquote {
+  background-color: #0f5696;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #b0e0e6;
+  color: #fff;
+  margin: 10px 0;
+  position: relative;
+}
+
+blockquote::before {
+  content: "Quote";
+  /* Default title */
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-size: 1.1em;
+  /* Optional */
+  color: #fff;
+}
+
+.copy-table-button {
+  position: relative;
+  left: calc(100% - 30px);
+  /* Push the button to the top-right of the table */
+  transform: translateY(-100%);
+  background: transparent;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.copy-table-button:hover {
+  color: blue;
 }

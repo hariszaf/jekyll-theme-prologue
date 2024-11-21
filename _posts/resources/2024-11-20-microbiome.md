@@ -13,6 +13,7 @@ Microbiome analysis counts several aspects, yet it always comes down at some bas
 Here, I will try to cover a thing or two and gather some links that describe them more thoroughly.
 To save some (of my) time, I will use a lot of copy-paste () always referring the initial resource 
 
+**TABLE OF CONTENTS**
 - [Microbiome data idiosyncrasy](#microbiome-data-idiosyncrasy)
 - [Microbiome diversity](#microbiome-diversity)
   - [Diversity within a community](#diversity-within-a-community)
@@ -21,16 +22,17 @@ To save some (of my) time, I will use a lot of copy-paste () always referring th
   - [Differential Abundance Analysis](#differential-abundance-analysis)
 - [Literature](#literature)
 
+---
 
 ## Microbiome data idiosyncrasy 
 
-<!-- <div style="background-color: #f0f8ff; padding: 10px; border-radius: 5px; border: 1px solid #b0e0e6;">
-  <h3>Important Information</h3>
-  This is a colored box with a light blue background. You can use HTML to add more complex styling to your Markdown content.
-</div> -->
 
+{:.quote-box}
+> Although microbiome data has some of the attributes of compositional data, it is **not perfectly compositional**. 
+>Classic compositional data vectors represent portions of a whole. The total sum of the components is not meaningful, and only the relative difference between components matters [36]. For truly compositional data, the vectors (2, 1) and (2000, 1000) represent the same information: only that the first and second components are present in the ratio 2 : 1. 
+>For microbiome data, **the size of the counts also contains information about the reliability of the ratio**. 
+>Larger counts are more likely to closely match the true ratio in the sample [44].
 
-Although microbiome data has some of the attributes of compositional data, it is not perfectly compositional. Classic compositional data vectors represent portions of a whole. The total sum of the components is not meaningful, and only the relative difference between components matters [36]. For truly compositional data, the vectors (2, 1) and (2000, 1000) represent the same information: only that the first and second components are present in the ratio 2 : 1. For microbiome data, the size of the counts also contains information about the reliability of the ratio. Larger counts are more likely to closely match the true ratio in the sample [44].
 
 
 

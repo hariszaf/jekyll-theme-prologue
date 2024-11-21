@@ -175,6 +175,10 @@ defaults:
         type:          WebPage
 
 kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    block: {}
+  use_coderay: false
   math_engine:         mathjax
   math_engine_opts:    {}
   footnote_backlink:   '&#x21a9;&#xfe0e;'

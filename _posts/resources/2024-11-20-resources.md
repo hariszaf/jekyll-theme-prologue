@@ -12,12 +12,14 @@ You can make a shitty table first and then by Ctrl+Shift+I make it pretty
 Here you can find more: https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one -->
 
 <!-- Ctrl+shift+p and then run: `Create Table of Contents`. this also comes from the "all in one" extension -->
-Table of contents
+**TABLE OF CONTENTS**
 - [Metabolic modeling](#metabolic-modeling)
 - [Genomics and Metagenomics](#genomics-and-metagenomics)
 - [Databases](#databases)
-- [Statistics](#statistics)
+- [Statistics for microbiome analysis](#statistics-for-microbiome-analysis)
 - [My dictionary](#my-dictionary)
+
+---
 
 
 ## Metabolic modeling
@@ -30,6 +32,7 @@ You may have a look at this [*e-book*](https://hariszaf.github.io/notes-on-met-m
 | :------- | :---------------------------------------------------------------------------- | :----------- | :------------------------------------------------------------ | :---------------------------------------- |
 | LocalHGT | ultrafast horizontal gene transfer detection from large microbial communities | stand-alone  | [GitHub](https://github.com/deepomicslab/LocalHGT#hgt-events) | [OA](https://doi.org/10.1093/nar/gkae515) |
 
+<button class="copy-button">Copy Table</button>
 
 ## Databases
 
@@ -37,13 +40,19 @@ You may have a look at this [*e-book*](https://hariszaf.github.io/notes-on-met-m
 | -------: | ----------: | ---: | ---: |
 |     tree |         asd |  ads |  asd |
 
+<button class="copy-button">Copy Table</button>
 
-## Statistics
+## Statistics for microbiome analysis
 <!-- ✘ (&#10008) is a not available ; ✔ (&#10003) is a tick for yes -->
 
-| Tool  | Description | Architecture                                | Repo | DOI                                             |
-| :---- | :---------- | :------------------------------------------ | :--- | :---------------------------------------------- |
-| MOFA2 | 2           | [ GitHub ](https://github.com/bioFAM/MOFA2) |      | <a href="https://biofam.github.io/MOFA2/">✔</a> | [OA](https://doi.org/10.1186/s13059-020-02015-1) |
+| Tool            | Description                                                                                                                         | Architecture        | Repo                                                   | Documentation                                                |                                                  | DOI |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------- |
+| MOFA2           | a factor analysis model that provides a general framework for the integration of multi-omic data sets in an unsupervised fashion.   | library (Python, R) | [ GitHub ](https://github.com/bioFAM/MOFA2)            | <a href="https://biofam.github.io/MOFA2/">✔</a>              | [OA](https://doi.org/10.1186/s13059-020-02015-1) |
+| coda4microbiome | analyzing microbiome data within the Compositional Data Analysis (CoDA) framework in both, cross-sectional and longitudinal studies | R                   | [GitHub](https://malucalle.github.io/coda4microbiome/) | <a href="https://malucalle.github.io/coda4microbiome/">✔</a> | [OA](https://doi.org/10.1186/s12859-023-05205-3) |
+
+
+<button class="copy-button">Copy Table</button>
+
 
 
 <!-- ## Mind-blowing papers  -->
@@ -60,10 +69,5 @@ In the following table I describe some terms I usually read/write about.
 | effective number | refers to the number of equally abundant species needed to obtain the same mean proportional species abundance as that observed in the dataset of interest (where all species may not be equally abundant) |
 
 
-
-
-
- 
-
-
+<button class="copy-button">Copy Table</button>
 
