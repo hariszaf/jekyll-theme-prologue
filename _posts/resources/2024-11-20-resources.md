@@ -44,11 +44,16 @@ You may have a look at this [*e-book*](https://hariszaf.github.io/notes-on-met-m
 
 ## Statistics for microbiome analysis
 <!-- ✘ (&#10008) is a not available ; ✔ (&#10003) is a tick for yes -->
+<!-- Template for copy-paste of new entry:
 
-| Tool            | Description                                                                                                                         | Architecture        | Repo                                                   | Documentation                                                |                                                  | DOI |
-| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------- |
-| MOFA2           | a factor analysis model that provides a general framework for the integration of multi-omic data sets in an unsupervised fashion.   | library (Python, R) | [ GitHub ](https://github.com/bioFAM/MOFA2)            | <a href="https://biofam.github.io/MOFA2/">✔</a>              | [OA](https://doi.org/10.1186/s13059-020-02015-1) |
-| coda4microbiome | analyzing microbiome data within the Compositional Data Analysis (CoDA) framework in both, cross-sectional and longitudinal studies | R                   | [GitHub](https://malucalle.github.io/coda4microbiome/) | <a href="https://malucalle.github.io/coda4microbiome/">✔</a> | [OA](https://doi.org/10.1186/s12859-023-05205-3) |
+|  |  |  |  |  <a href="">✔</a> |   |
+-->
+
+| Tool            | Description                                                                                                                         | Architecture        | Repo                                                   |                        Documentation                         |                         DOI                          |
+| :-------------- | :---------------------------------------------------------------------------------------------------------------------------------- | :------------------ | :----------------------------------------------------- | :----------------------------------------------------------: | :--------------------------------------------------: |
+| MOFA2           | a factor analysis model that provides a general framework for the integration of multi-omic data sets in an unsupervised fashion.   | library (Python, R) | [ GitHub ](https://github.com/bioFAM/MOFA2)            |       <a href="https://biofam.github.io/MOFA2/">✔</a>        |   [OA](https://doi.org/10.1186/s13059-020-02015-1)   |
+| coda4microbiome | analyzing microbiome data within the Compositional Data Analysis (CoDA) framework in both, cross-sectional and longitudinal studies | R package           | [GitHub](https://malucalle.github.io/coda4microbiome/) | <a href="https://malucalle.github.io/coda4microbiome/">✔</a> |   [OA](https://doi.org/10.1186/s12859-023-05205-3)   |
+| multimedia      | multimodal mediation analysis of microbiome data                                                                                    | R package           | [GitHub](https://github.com/krisrs1128/multimedia)     |   <a href="https://krisrs1128.github.io/multimedia/">✔</a>   | [biorxiv](https://doi.org/10.1101/2024.03.27.587024) |
 
 
 <button class="copy-button">Copy Table</button>
@@ -67,6 +72,9 @@ In the following table I describe some terms I usually read/write about.
 | evenness         | the commonness or rarity of a species                                                                                                                                                                      |
 | mucin            | a family of high molecular weight, heavily glycosylated proteins (glycoconjugates) produced by epithelial tissues in most animals                                                                          |
 | effective number | refers to the number of equally abundant species needed to obtain the same mean proportional species abundance as that observed in the dataset of interest (where all species may not be equally abundant) |
+| copiotrophs      | taxa living in environments rich in nutrients                                                                                                                                                              |
+
+
 
 
 <button class="copy-button">Copy Table</button>

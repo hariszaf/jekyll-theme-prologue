@@ -17,3 +17,11 @@ and once everything's there:
 bundle exec jekyll serve
 ```
 
+
+# Orphan posts
+ 
+Under the `more_posts` you may build pages that are not linked to a particular category from those included in the `_config.yml` file. To point to those from another post, you may use directly the `permalink` of the post you'd like to point at. For example check how we did that [here](_posts/resources/2024-11-20-microbiome.md#a-strain-dips-to-very-low-abundance-in-a-microbial-community-and-then-recovers-to-thrive). 
+
+
+
+
