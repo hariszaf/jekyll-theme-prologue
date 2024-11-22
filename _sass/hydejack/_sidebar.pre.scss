@@ -163,7 +163,6 @@ hy-drawer.loaded .sidebar {
 .sidebar-about {
   .avatar {
     margin-bottom: 1.5rem;
-    border-radius: 25%;
   }
 
   >a.sidebar-title {
@@ -190,6 +189,11 @@ hy-drawer.loaded .sidebar {
     }
   }
 }
+
+.sidebar-about .avatar {
+  border-radius: 25% !important;
+}
+
 
 .sidebar.invert .sidebar-about>a.sidebar-title {
   &::after {

@@ -23,16 +23,19 @@
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 .avatar {
-  
+
   width: 7rem;
   height: 7rem;
-  border-radius: 100%;
+  border-radius: 25%;
   overflow: hidden;
   display: inline-block;
-  img { width: 100%; }
-  
 
-  
+  img {
+    width: 100%;
+  }
+
+
+
 }
 
 
@@ -45,4 +48,3 @@
   margin-top: -1.5rem;
   margin-right: -1rem;
 }
-
