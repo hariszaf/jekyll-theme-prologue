@@ -158,29 +158,35 @@
           t.addEventListener(
             "hy-drawer-init",
             () => {
-              t.setAttribute("opened", "");
-              console.log("t (second try) : ", t);
-              t.classList.add("loaded"),
-                (function (e) {
-                  var t = document.getElementById("_hrefSwipeSVG");
+              t.setAttribute("opened", ""); // This DOES WORK
 
-                  //   t.classList.add("opened");   DOES NOT WORK
-                  //   t.setAttribute("opened", ""); DOES NOT WORK
+              // Check if we are on the homepage
+              if (window.location.pathname === "/") {
+                // Add the 'opened' attribute to open the sidebar
+                t.setAttribute("opened", "");
+              } else {
+                // Ensure the sidebar is closed on other pages
+                t.removeAttribute("opened");
+              }
 
-                  console.log("t (the fucking sidebar) ", t);
+              t.classList.add("loaded");
 
-                  if (t) {
-                    var a,
-                      n = document.createElement("img");
-                    (n.id = "_swipe"),
-                      (n.src = t.href),
-                      (n.alt = "Swipe image"),
-                      n.addEventListener("click", () => e.close()),
-                      null === (a = document.getElementById("_sidebar")) ||
-                        void 0 === a ||
-                        a.appendChild(n);
-                  }
-                })(t),
+              console.log("t (using the if - else ) : ", t);
+              //   t.classList.add("loaded"),
+              (function (e) {
+                var t = document.getElementById("_hrefSwipeSVG");
+                if (t) {
+                  var a,
+                    n = document.createElement("img");
+                  (n.id = "_swipe"),
+                    (n.src = t.href),
+                    (n.alt = "Swipe image"),
+                    n.addEventListener("click", () => e.close()),
+                    null === (a = document.getElementById("_sidebar")) ||
+                      void 0 === a ||
+                      a.appendChild(n);
+                }
+              })(t),
                 // B && C >= B && window.scrollTo(0, C - B);
                 // B && C >= B && window.scrollTo(0, 0);
                 B && C >= B && window.scrollTo(0, B);
