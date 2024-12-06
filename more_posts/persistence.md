@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Factors Contributing to the Persistence of Low-Abundance Microbial Strains
-permalink: /persistence/
+permalink: /insights/persistence
 ---
 
 The following was produced by AI, and it might not cover all the mechanisms, however it's like a window in the knot of processes that drive communities dynamics!

@@ -136,7 +136,7 @@ asd
 ### A strain dips to very low abundance in a microbial community and then recovers to thrive
 
 This is quite common and reflects the complex interplay of ecological, evolutionary, and environmental factors. 
-[In this page](/persistence/) you can find some of the ways a strain might manage to survive during these low-abundance periods without going completely extinct.
+[In this page](/insights/persistence/) you can find some of the ways a strain might manage to survive during these low-abundance periods without going completely extinct.
 
 
 

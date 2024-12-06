@@ -18,6 +18,7 @@ Here you can find more: https://marketplace.visualstudio.com/items?itemName=yzha
 - [Databases](#databases)
 - [Statistics for microbiome analysis](#statistics-for-microbiome-analysis)
 - [My dictionary](#my-dictionary)
+- [Visualizations](#visualizations)
 
 ---
 
@@ -33,6 +34,8 @@ You may have a look at this [*e-book*](https://hariszaf.github.io/notes-on-met-m
 | LocalHGT | ultrafast horizontal gene transfer detection from large microbial communities | stand-alone  | [GitHub](https://github.com/deepomicslab/LocalHGT#hgt-events) | [OA](https://doi.org/10.1093/nar/gkae515) |
 
 <button class="copy-button">Copy Table</button>
+
+
 
 ## Databases
 
@@ -66,6 +69,8 @@ You may have a look at this [*e-book*](https://hariszaf.github.io/notes-on-met-m
 
 In the following table I describe some terms I usually read/write about. 
 
+
+
 | Term             | Description                                                                                                                                                                                                |
 | :--------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | richness         | number of different taxa in a community                                                                                                                                                                    |
@@ -73,9 +78,17 @@ In the following table I describe some terms I usually read/write about.
 | mucin            | a family of high molecular weight, heavily glycosylated proteins (glycoconjugates) produced by epithelial tissues in most animals                                                                          |
 | effective number | refers to the number of equally abundant species needed to obtain the same mean proportional species abundance as that observed in the dataset of interest (where all species may not be equally abundant) |
 | copiotrophs      | taxa living in environments rich in nutrients                                                                                                                                                              |
-
+| succession | changes in the presence, relative abundance or absolute abundance of one or more organisms within a microbial community. Its processes can be **deterministic** or **stochastic**. Factors that drive deterministic succession fall into three categories: *abiotic factors* (pH, redox potential), *environmental factors* (cross-feeding, diet or travel) and *biological factors* (innate and adaptive immunity). Stochastic succession is defined as microbial community changes that are not the consequence of environmentally determined fitness (*ecological drift*). Whether microbial succession is more deterministic or stochastic is driven by several factors in the formation of the community, including birth mode, travel, diet (for example, human breast milk) and antibiotics. |
 
 
 
 <button class="copy-button">Copy Table</button>
+
+
+## Visualizations
+
+
+| Tool            | Description                                                                                                                                                                                                    | Architecture        | Repo                                                   |                        Documentation                         |                         DOI                          |
+| clinker | pipeline for easily generating publication-quality gene cluster comparison figures | Python package | [GitHub](https://github.com/gamcil/clinker) |  [wiki page](https://github.com/gamcil/clinker/wiki#basic-pipeline) |  [OA](https://doi.org/10.1093/bioinformatics/btab007) |
+
 
