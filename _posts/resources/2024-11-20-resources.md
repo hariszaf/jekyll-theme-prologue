@@ -9,7 +9,10 @@ tags: tools
 This is my favorite resources' page
 <!-- To make life easier, we use the Markdown All in One vs-code add on
 You can make a shitty table first and then by Ctrl+Shift+I make it pretty 
-Here you can find more: https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one -->
+Here you can find more: https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one 
+
+[NOTE] For the Copy Table button to well perform, we need to have the exact same number of buttons as the number of tables in a page.
+-->
 
 <!-- Ctrl+shift+p and then run: `Create Table of Contents`. this also comes from the "all in one" extension -->
 **TABLE OF CONTENTS**
@@ -29,9 +32,12 @@ You may have a look at this [*e-book*](https://hariszaf.github.io/notes-on-met-m
 
 ## Genomics and Metagenomics
 
-| Tool     | Description                                                                   | Architecture | Repo                                                          | DOI                                       |
-| :------- | :---------------------------------------------------------------------------- | :----------- | :------------------------------------------------------------ | :---------------------------------------- |
-| LocalHGT | ultrafast horizontal gene transfer detection from large microbial communities | stand-alone  | [GitHub](https://github.com/deepomicslab/LocalHGT#hgt-events) | [OA](https://doi.org/10.1093/nar/gkae515) |
+| Tool     | Description                                                                   | Documentation | Architecture | Repo                                                          | DOI                                       |
+| :------- | :---------------------------------------------------------------------------- | :-----------  | :----------- | :------------------------------------------------------------ | :---------------------------------------- |
+| skani |  determining average nucleotide identity (ANI) via sparse approximate alignments | [wiki](https://github.com/bluenote-1577/skani/wiki) | stand-alone  | [GitHub](https://github.com/bluenote-1577/skani) | [OA](https://doi.org/10.1038/s41592-023-02018-3) |
+| LocalHGT | ultrafast horizontal gene transfer detection from large microbial communities | - |stand-alone  | [GitHub](https://github.com/deepomicslab/LocalHGT#hgt-events) | [OA](https://doi.org/10.1093/nar/gkae515) |
+| gRodon | estimates maximal growth rates of prokaryotes and microbial eukaryotes from genome-wide codon usage statistics | [site](https://microbialgamut.com/gRodon-vignette) | R package | [GitHub](https://github.com/jlw-ecoevo/gRodon2) |  [original](https://doi.org/10.1073/pnas.2016810118) | [v2 @ biorxiv](https://doi.org/10.1101/2021.10.15.464604) |
+| 
 
 <button class="copy-button">Copy Table</button>
 
@@ -41,7 +47,7 @@ You may have a look at this [*e-book*](https://hariszaf.github.io/notes-on-met-m
 
 | Resource | Description | Link |  DOI |
 | -------: | ----------: | ---: | ---: |
-|     tree |         asd |  ads |  asd |
+| eggo  |  estimated growth rates from gRodon online | [GitHub](https://github.com/jlw-ecoevo/eggo) | [OA](https://doi.org/10.1073/pnas.2016810118)  |
 
 <button class="copy-button">Copy Table</button>
 
@@ -91,4 +97,5 @@ In the following table I describe some terms I usually read/write about.
 | Tool            | Description                                                                                                                                                                                                    | Architecture        | Repo                                                   |                        Documentation                         |                         DOI                          |
 | clinker | pipeline for easily generating publication-quality gene cluster comparison figures | Python package | [GitHub](https://github.com/gamcil/clinker) |  [wiki page](https://github.com/gamcil/clinker/wiki#basic-pipeline) |  [OA](https://doi.org/10.1093/bioinformatics/btab007) |
 
+<button class="copy-button">Copy Table</button>
 
